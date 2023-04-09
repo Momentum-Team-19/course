@@ -1,0 +1,12 @@
+*.gem
+.bundle/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+_site/
+node_modules/
+vendor/
+_drafts/
+topic-template.md
+repobee.ini
+repobee-team.txt

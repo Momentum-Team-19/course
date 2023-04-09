@@ -1,0 +1,54 @@
+# phase 3 backend
+habit_tracker:
+  url: https://github.com/Momentum-Team-17/habit-tracker.git
+  due_date: 2023-03-17
+drf_tutorial:
+  url: https://classroom.github.com/a/UzNpDzpQ
+  due_date: 2023-03-21
+drf_tutorial_guide:
+  url: https://learndjango.com/tutorials/official-django-rest-framework-tutorial-beginners
+  due_date: 2023-03-21
+drf_choose_your_own_adventure:
+  url: https://classroom.github.com/a/vdOQLwZC
+  due_date: 2023-03-23
+drf_library_api:
+  url: https://classroom.github.com/a/GQDYHpsY
+  due_date: 2023-01-30
+
+# phase 3 frontend
+# these project links leave room for the github username to be appended in the custom links
+js_exercism:
+  url: https://exercism.org/tracks/javascript
+  customize: true
+  due_date: 2023-03-14
+react_beginner_tutorial:
+  url: https://github.com/momentum-team-17/react-beginner-tutorial-
+  customize: true
+  due_date: 2023-03-14
+react_freeshelf:
+  url: https://github.com/momentum-team-17/react-freeshelf-
+  customize: true
+  due_date: 2023-03-16
+react_slides:
+  url: https://github.com/momentum-team-17/react-slides-
+  customize: true
+  due_date: 2023-03-20
+react_trivia:
+  url: https://classroom.github.com/a/zW3SILar
+  due_date: 2023-03-23
+react_job_search:
+  url: https://classroom.github.com/a/FTvBOW2i
+  due_date: 20203-03-27
+
+# phase 3 collab
+collaborative_project:
+  url: https://classroom.github.com/a/72vMj6Gn
+  due_date: 2023-04-06
+social-e-cards:
+  url: https://classroom.github.com/a/6uJOiNes
+  due_date: 2023-04-06
+questionbox:
+  url: https://classroom.github.com/a/GHQWGXUY
+  due_date: 2023-04-06
+video_presentations:
+  due_date: 2023-04-07

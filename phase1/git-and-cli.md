@@ -41,6 +41,6 @@ Your link should look similar to this, with a different number at the end: `http
 - [Computer Setup for Macbooks with Intel processors]({% link references/computer-setup-intel.md %})
 - [Computer Setup for Macbooks with Apple Silicon chips]({% link references/computer-setup-apple-silicon.md %})
 - [Command Line notes]({{ site.team_notes_repo }}/blob/main/command-line.md)
-- [Git notes]({{ site.team_notes_repo }}/blob/main/git-github.md)
+- [Git notes]({{ site.team_notes_repo }}/blob/main/git.md)
 
 {% include reference_links.md %}

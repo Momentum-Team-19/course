@@ -22,6 +22,5 @@ And, we'll jump right into using two important tools that you will use throughou
 
 ## 📙 Orientation
 
-- [Orientation Part 1 Slides]()
 - [How We Work Remotely at Momentum]({% link about/remote_work.md %})
 - [Momentum Community Standards]({% link about/community_standards.md %})

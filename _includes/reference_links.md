@@ -24,7 +24,7 @@
 [git-collab]: {% link references/git-and-cli.md %}#advanced-git
 [video-mtg]: {% link references/tools.md %}#video-meetings
 [slack]: {% link references/tools.md %}#slack
-[vscode]: {% link references/tools.md %}#vscode
+[vscode]: {% link references/tools.md %}#using-vs-code
 
 <!-- phase 3 django -->
 [advanced-databases]: {% link references/py-django.md %}#advanced-databases

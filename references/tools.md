@@ -7,7 +7,16 @@ layout: resource_list
 
 {% include summary_toc.html %}
 
-## General Front End Code Formatting
+## Using VS Code
+
+Writing code requires a special editor -- you can't use Google Docs or MS Word. VS Code, the code editor we use at Momentum, is widely used in the industry.
+
+- [Getting Started with VS Code, video](https://code.visualstudio.com/docs/introvideos/basics)
+- [Install VS Code LiveShare](https://docs.microsoft.com/en-us/visualstudio/liveshare/use/vscode#installation)
+- [How to use VS Code LiveShare](https://docs.microsoft.com/en-us/visualstudio/liveshare/use/vscode)
+- [How to Share a Project with VS Code LiveShare](https://docs.microsoft.com/en-us/visualstudio/liveshare/use/vscode#share-a-project)
+
+## Front End Code Formatting
 
 - [Prettier Code Formatter](https://prettier.io/) This is information about the extenstion that you can (and should) install in VS Code.
 - [How to format code with Prettier](https://www.digitalocean.com/community/tutorials/code-formatting-with-prettier-in-visual-studio-code)
@@ -74,12 +83,3 @@ It's important that the application you use to take notes can properly format co
 - [Tutorial on Using Slack](https://slack.com/references/using-slack/slack-tutorials)
 - [Momentum Community Slack guidelines](https://docs.google.com/document/d/1updvgMnO2xAAfP46oW__d3-nhv4hPodW7WvxKWX87JA/edit?usp=sharing)
 - [Formatting Your Messages in Slack](https://slack.com/help/articles/202288908-Format-your-messages)
-
-## Using VS Code
-
-Writing code requires a special editor -- you can't use Google Docs or MS Word. VS Code, the code editor we use at Momentum, is widely used in the industry.
-
-- [Getting Started with VS Code, video](https://code.visualstudio.com/docs/introvideos/basics)
-- [Install VS Code LiveShare](https://docs.microsoft.com/en-us/visualstudio/liveshare/use/vscode#installation)
-- [How to use VS Code LiveShare](https://docs.microsoft.com/en-us/visualstudio/liveshare/use/vscode)
-- [How to Share a Project with VS Code LiveShare](https://docs.microsoft.com/en-us/visualstudio/liveshare/use/vscode#share-a-project)

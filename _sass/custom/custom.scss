@@ -247,6 +247,11 @@ ul#markdown-toc > li::before {
   border: 1px solid $grey-lt-100;
 }
 
+.img--caption {
+  font-size: 0.8rem;
+  display: block;
+}
+
 strong {
   color: $grey-dk-300;
 }

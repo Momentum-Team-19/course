@@ -29,6 +29,7 @@ const openDialog = () => {
 }
 
 const showWarning = () => {
+  // TODO: fix bug where warning shows if form is submitted with enter key
   const dialogTextDiv = document.getElementById('dialog-text')
   let warning = document.getElementById('dialog-warning')
   if (warning) dialogTextDiv.removeChild(warning)
@@ -52,16 +53,16 @@ const closeDialog = (event) => {
 
 
 /****** Event Listeners ******/
-window.addEventListener('load', () => {
-  const githubUsername = window.localStorage.getItem(localStorageKey)
-  if (!githubUsername) {
-    console.log('No github username')
-    openDialog()
-  } else {
-    createCustomRepoLink()
-  }
-})
+// window.addEventListener('load', () => {
+//   const githubUsername = window.localStorage.getItem(localStorageKey)
+//   if (!githubUsername) {
+//     console.log('No github username')
+//     openDialog()
+//   } else {
+//     createCustomRepoLink()
+//   }
+// })
 
-cancelBtn.addEventListener('click', closeDialog)
+// cancelBtn.addEventListener('click', closeDialog)
 
-form.addEventListener('submit', handleSubmit)
+// form.addEventListener('submit', handleSubmit)

@@ -18,7 +18,7 @@ And, we'll jump right into using two important tools that you will use throughou
 3. Make sure your computer is all set up and ready to go. Get help from an instructor if you are stuck or something isn't working right.
 4. Read the [Really Friendly Command-Line Intro](https://drive.google.com/open?id=1E4ALJrjclTYE4C6lwIV517-SOXiZ-Dqb).
 5. Read the [Really Friendly Git Intro](https://drive.google.com/open?id=125rubyTQpBwmpi6I_UzUWfT1aXeHmy5n).
-6. Complete the Git-It tutorial (below) and [submit this form when you are done](https://forms.gle/jvQjs85BJ19JS1cWA).
+6. Complete the [Git-It tutorial]({{site.data.phase1.projects.git_it.url}}) and [submit this form when you are done](https://forms.gle/jvQjs85BJ19JS1cWA).
 
 ## 📙 Orientation
 

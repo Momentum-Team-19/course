@@ -4,28 +4,28 @@ title: 'CSS: The Basics'
 tags: phase-1 css
 parent: Phase 1 Front End
 nav_order: 3
-published: false
+published: true
 ---
 
-## Objectives
+## 🎯 Objectives
 
-- Styling HTML with CSS
+- Styling a page with CSS
 - CSS syntax: selectors, properties, values; shorthand properties
 - Working with color, text and font properties, and backgrounds
 - The box model, margin, and padding
 - Units of measurement
 
-## ✅ TODO today
+## 🏗️ Project
 
-Begin working on your dog adoption website. 🐕
+Begin styling your dog adoption website. 🐕 💅
 
-You won't be able to do all of it at once. *Start with the html*, adding in classes for your elements. Think about how to group your elements together so you can apply styles effectively to groups of things.
+You won't be able to do all of it at once. Your HTML should be in place first. You can then begin adding classes for the elements that you want to style.
 
-## 🎯 Weekend Project: Build a Dog Adoption website
+Think about how to group your elements together so you can apply styles effectively to groups of things that look the same.
 
-[Link to the project invitation]({{ site.data.projects.css-dog-adoption.url }})
+[Link to the project invitation]({{ site.data.phase1.projects.css_dog_adoption.url }})
 
-This project is due on {{ site.data.projects.css-dog-adoption.due_date }}.
+This project is due on {{ site.data.phase1.projects.css_dog_adoption.due_date | date: "%A, %B %e" }}.
 
 ## 🔖 References
 

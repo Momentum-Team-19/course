@@ -8,11 +8,13 @@ layout: resource_list
 ## Getting Started with CSS
 
 - [MDN CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+- [MDN Getting Started with CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started)
 - [CSS-Tricks Getting Started with HTML & CSS](https://css-tricks.com/guides/beginner/)
 - [Rachel Andrew: How to Learn CSS](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)
 
 ## Selectors and Properties
 
+- [CSS-Tricks Almanac](https://css-tricks.com/almanac/) _A big alphabetical list of selectors and properties with explanations of each._
 - [CSS Diner](https://flukeout.github.io/) -> This goes into a LOT of depth.
 - [MDN CSS Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
 - [MDN CSS Reference for Property Names](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)

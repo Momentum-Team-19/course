@@ -4,11 +4,11 @@ title: JavaScript and Forms
 tags: phase-1 javascript js forms validation
 parent: Phase 1 Front End
 nav_order: 11
-published: false
+published: true
 ---
 
 
-## Objectives
+## 🎯 Objectives
 
 - HTML forms
 - Working with form data in JavaScript
@@ -34,7 +34,7 @@ Loom lets you record a screencast with or without your face showing. You can cho
 - [Getting Started with Loom](https://support.loom.com/hc/en-us/articles/360015714197-Getting-Started-Video-Tutorials)
 - [Loom Chrome Extension](https://www.loom.com/download)
 
-Please post your video and share the url for it using [this form](https://forms.gle/h6yEw6dC7SwVyuhq9). **Your videos are due by 2:00 pm on Thursday, June 9.**
+Please post your video and share the url for it using [this form](https://forms.gle/h6yEw6dC7SwVyuhq9). **Your videos are due by 2:00 pm on {{ site.data.phase1.projects.end_of_phase.due_date | date: "%A, %B %e" }} .**
 
 ## ✅ Requirements for passing the phase
 
@@ -44,7 +44,7 @@ Please post your video and share the url for it using [this form](https://forms.
 4. Your presentation includes JavaScript.
 5. You turn in a video.
 
-## 🎯 Project
+## 🏗️ Project
 
 - We will work on this project together during our team meeting, in addition to the other time you'll spend working on the project.
 - Everyone needs to turn in code.

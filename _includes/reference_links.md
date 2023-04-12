@@ -6,7 +6,6 @@
 [mindset]: {% link references/learning.md %}#mindset
 [prettier]: {% link references/tools.md %}#general-front-end-code-formatting
 [html-forms]: {% link references/forms.md %}#html-forms
-
 [css-selectors-and-properties]: {% link references/css-basics.md %}#selectors-and-properties
 [css-start]: {% link references/css-basics.md %}#getting-started-with-css
 [css-box-model]: {% link references/css-basics.md %}#the-box-model
@@ -14,6 +13,10 @@
 [ajax-fetch]: {% link references/js-general.md %}#ajax-and-fetch
 [apis]: {% link references/js-general.md %}#apis
 [js-truthy-falsy]: {% link references/js-general.md %}#truthy-and-falsy
+[js-arrays]: {% link references/js-general.md %}#arrays
+[js-events]: {% link references/js-general.md %}#events
+[js-dom]: {% link references/js-general.md %}#the-dom
+[js-objects]: {% link references/js-general.md %}#objects
 [js-dates]: {% link references/js-general.md %}#working-with-dates
 [js-forms]: {% link references/js-general.md %}
 

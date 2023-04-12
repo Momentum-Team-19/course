@@ -7,20 +7,20 @@ nav_order: 5
 published: false
 ---
 
-## Objectives
+## 🎯 Objectives
 
 - Basic programming concepts in JavaScript
 - Using variables, data types, conditionals, loops, and functions
 
-## 🎯 Project: Free Code Camp JavaScript Exercises
+## 🏗️ Project: Free Code Camp JavaScript Exercises
 
-First half due {{ site.data.projects.js_free_code_camp.due_date}}
+First half due {{ site.data.phase1.projects.js_freecodecamp.due_date | date: "%A, %B %e" }}
 
 English:
-[JavaScript practice exercises]({{ site.data.projects.js_freecodecamp.url }}), from the beginning through "Shopping List" for tomorrow morning.
+[JavaScript practice exercises]({{ site.data.phase1.projects.js_freecodecamp.url }}), from the beginning through "Shopping List" for tomorrow morning.
 
 Español:
-[Los mismos ejercisios en Español]({{ site.data.projects.js_freecodecamp_espanol.url }}) de 'Comenta tu código' a 'Lista de Compras' antes del martes por la mañana.
+[Los mismos ejercisios en Español]({{ site.data.phase1.projects.js_freecodecamp_espanol.url }}) de 'Comenta tu código' a 'Lista de Compras' antes del martes por la mañana.
 
 ### ✅ TODO Today
 
@@ -29,7 +29,7 @@ Español:
 ## 🔖 References
 
 - [The mindset for learning to code][mindset]
-- [JS Basics]({% link references/js-basics.md %})
+- [JS Basics]({% link references/js-general.md %})
 - [Truthy & Falsy in JS][js-truthy-falsy]
 - [Intro to JS Notes/Slides]({{ site.team_notes_repo }}/blob/main/intro-js.md)
 

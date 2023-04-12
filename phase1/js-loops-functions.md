@@ -7,19 +7,19 @@ nav_order: 6
 published: false
 ---
 
-## Objectives
+## 🎯 Objectives
 
 - Using variables, data types, conditionals, loops, and functions
 
-## 🎯 Project: Free Code Camp JavaScript Exercises
+## 🏗️  Project: Free Code Camp JavaScript Exercises
 
 _Finish Second Half_
 
 English:
-[JavaScript practice exercises]({{ site.data.projects.js_freecodecamp.url }})
+[JavaScript practice exercises]({{ site.data.phase1.projects.js_freecodecamp.url }})
 
 Español:
-[Los mismos ejercisios en Español]({{ site.data.projects.js_freecodecamp_espanol.url }})
+[Los mismos ejercisios en Español]({{ site.data.phase1.projects.js_freecodecamp_espanol.url }})
 
 ## Rebecca's Videos
 
@@ -30,4 +30,3 @@ Español:
 ## 🔖 References
 
 - [Intro to JS Notes/Slides]({{ site.team_notes_repo }}/blob/main/intro-js.md)
-

@@ -17,6 +17,7 @@ js_freecodecamp_espanol:
   url: https://www.freecodecamp.org/espanol/learn/javascript-algorithms-and-data-structures/#basic-javascript
 js_calculator:
   url:
+  due_date:
 js_calculator_2:
   url: 
   due_date:
@@ -29,3 +30,5 @@ ajax_github_profile:
 ajax_currency_converter:
   url: 
   due_date:
+end_of_phase:
+  due_date: 

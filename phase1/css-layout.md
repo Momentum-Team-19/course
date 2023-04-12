@@ -6,20 +6,19 @@ nav_order: 4
 published: false
 ---
 
-## Objectives
+## 🎯 Objectives
 
 - CSS backgrounds
 - CSS layout with flexbox
 
-## 🎯 Weekend Project: Dog Adoption
+## 🏗️ Project
 
-Continue working on your dog adoption website project. It's due on {{ site.data.projects.due_date | date: "%A, %B %e" }}.
+Continue working on your dog adoption website project. It's due on {{ site.data.phase1.projects.due_date | date: "%A, %B %e" }}.
 
 ## 🔖 References
 
 - [CSS Layout and Design]({% link references/css-layout.md %})
 - [Notes on CSS Layout]({{ site.team_notes_repo }}/blob/main/css-layout.md)
 - [Notes on Responsive CSS]({{ site.team_notes_repo }}/blob/main/css-responsive.md)
-
 
 {% include reference_links.md %}

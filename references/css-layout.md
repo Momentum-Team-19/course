@@ -8,7 +8,7 @@ layout: resource_list
 ## General
 
 - [Complete Guide to Centering in CSS](https://moderncss.dev/complete-guide-to-centering-in-css/)
-- [SmolCSS](https://smolcss.dev/) _"Minimal snippets for modern CSS" These are great examples of how to do common things._ 
+- [SmolCSS](https://smolcss.dev/) _"Minimal snippets for modern CSS" - These are great examples of how to do common things._
 - [CSS-Tricks Guide to Centering Things](https://css-tricks.com/centering-css-complete-guide/)
 - [CSS-Tricks Tinted Images with Multiple Backgrounds](https://css-tricks.com/tinted-images-multiple-backgrounds/)
 - [MDN: Use CSS to solve common problems](https://developer.mozilla.org/en-US/docs/Learn/CSS/Howto)
@@ -28,7 +28,7 @@ layout: resource_list
 - [MDN Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 - [How to use media queries alongside Grid and Flexbox](https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/)
 
-#### Design
+## Design
 
 - [10 Cheat Codes for designing user interfaces](https://medium.com/sketch-app-sources/design-cheatsheet-274384775da9)
 - [7 Rules for Creating Gorgeous UIs](https://learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-1.html)

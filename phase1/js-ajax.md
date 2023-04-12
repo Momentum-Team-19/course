@@ -7,7 +7,7 @@ nav_order: 10
 published: false
 ---
 
-## Objectives
+## 🎯 Objectives
 
 - Today's first goal is to complete the customer database.
 - The next task is to prepare to start working with fetch and AJAX.
@@ -16,12 +16,12 @@ published: false
     - Make GET requests with Insomnia client
     - Make GET requests using the Fetch API and display response data on a page
 
-## 🎯 Project: Choose Your Own Adventure
+## 🏗️ Project: Choose Your Own Adventure
 
-Your project is to do _one_ of the following projects. Whichever you choose, it will be due on {{ site.data.projects.ajax_github_profile.due_date }}.
+Your project is to do _one_ of the following projects. Whichever you choose, it will be due on {{ site.data.projects.ajax_github_profile.due_date | date: "%A, %B %e" }}.
 
-- 🌶 [AJAX GitHub profile]({{ site.data.projects.ajax_github_profile.url }})
-- 🌶🌶 [AJAX Currency Converter]({{ site.data.projects.ajax_currency_converter.url }})
+- 🌶 [AJAX GitHub profile]({{ site.data.phase1.projects.ajax_github_profile.url }})
+- 🌶🌶 [AJAX Currency Converter]({{ site.data.phase1.projects.ajax_currency_converter.url }})
 
 ## 🔖 References
 

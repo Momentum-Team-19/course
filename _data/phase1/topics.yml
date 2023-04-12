@@ -23,7 +23,7 @@
 - title: CSS Layout
   phase: 1
   date: 2023-04-13
-  page: 
+  page: phase1/css-layout.md
   project_name: css_dog_adoption
   code_demo: css-flexbox
   published: false
@@ -52,7 +52,7 @@
   phase: 1
   date: 2023-04-20
   page:
-  project_name:
+  project_name: 
   code_demo:
   published: false
 - title: JavaScript Objects

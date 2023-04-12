@@ -31,48 +31,48 @@
   phase: 1
   date: 2023-04-17
   project_name: js_calculator
-  page: 
+  page: phase1/js-basics.md
   code_demo:
   published: false
 - title: JavaScript Loops & Functions
   phase: 1
   date: 2023-04-18
-  page:
+  page: phase1/js-loops-functions.md
   project_name: js_calculator_2
   code_demo: radius_example_codepen
   published: false
 - title: JavaScript Arrays
   phase: 1
   date: 2023-04-19
-  page:
+  page: phase1/js-arrays.md
   project_name:
   code_demo:
   published: false
 - title: JS & the DOM
   phase: 1
   date: 2023-04-20
-  page:
+  page: phase1/js-dom.md
   project_name: 
   code_demo:
   published: false
 - title: JavaScript Objects
   phase: 1
   date: 2023-04-24
-  page:
+  page: phase1/js-objects.md
   project_name:
   code_demo:
   published: false
 - title: AJAX & APIs
   phase: 1
   date: 2023-04-25
-  page:
+  page: phase1/js-ajax.md
   project_name:
   code_demo:
   published: false
 - title: JS and Forms
   phase: 1
   date: 2022-04-26
-  page:
+  page: phase1/js-forms.md
   project_name:
   code_demo:
   published: false

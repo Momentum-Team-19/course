@@ -11,14 +11,14 @@
   date: 2023-04-11
   page: phase1/html.md
   project_name: html_dog_adoption
-  code_demo: https://github.com/Momentum-Team-18/html-dog-adoption-website-amygori
+  code_demo: html_dog_adoption
   published: true
 - title: CSS Basics
   phase: 1
   date: 2023-04-12
   page: phase1/css-basics.md
   project_name: css_dog_adoption
-  code_demo:
+  code_demo: css_basics
   published: true
 - title: CSS Layout
   phase: 1

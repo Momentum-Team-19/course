@@ -3,17 +3,20 @@ layout: topic
 title: 'CSS: Layout'
 parent: Phase 1 Front End
 nav_order: 4
-published: false
+published: true
 ---
 
 ## 🎯 Objectives
 
+- Check in on Dog Adoption
 - CSS backgrounds
 - CSS layout with flexbox
 
 ## 🏗️ Project
 
 Continue working on your dog adoption website project. It's due on {{ site.data.phase1.projects.due_date | date: "%A, %B %e" }}.
+
+What do you need to know to be able to make progress on it?
 
 ## 🔖 References
 

@@ -26,7 +26,7 @@
   page: phase1/css-layout.md
   project_name: css_dog_adoption
   code_demo: css-flexbox
-  published: false
+  published: true
 - title: JavaScript Basics
   phase: 1
   date: 2023-04-17

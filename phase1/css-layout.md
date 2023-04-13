@@ -14,7 +14,7 @@ published: true
 
 ## 🏗️ Project
 
-Continue working on your dog adoption website project. It's due on {{ site.data.phase1.projects.due_date | date: "%A, %B %e" }}.
+Continue working on your dog adoption website project. It's due on {{ site.data.phase1.projects.css_dog_adoption.due_date | date: "%A, %B %e" }}.
 
 What do you need to know to be able to make progress on it?
 

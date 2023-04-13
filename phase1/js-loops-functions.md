@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: topic
 title: JavaScript Loops & Functions
 tags: phase-1 javascript js programming-basics
 parent: Phase 1 Front End

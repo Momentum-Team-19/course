@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: topic
 title: 'CSS: The Basics'
 tags: phase-1 css
 parent: Phase 1 Front End

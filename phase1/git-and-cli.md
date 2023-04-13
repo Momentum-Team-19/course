@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: topic
 title: 'Developer Tools: the Command Line and Git'
 topic: The Command Line and Git
 category: phase1

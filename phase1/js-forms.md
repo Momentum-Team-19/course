@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: topic
 title: JavaScript and Forms
 tags: phase-1 javascript js forms validation
 parent: Phase 1 Front End
 nav_order: 11
-published: true
+published: false
 ---
 
 

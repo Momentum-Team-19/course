@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: topic
 title: JS Objects
 tags: phase-1 javascript js objects
 parent: Phase 1 Front End

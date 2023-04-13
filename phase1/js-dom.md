@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: topic
 title: JavaScript and the DOM
 tags: phase-1 javascript js dom
 parent: Phase 1 Front End

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: topic
 title: 'CSS: Layout'
 parent: Phase 1 Front End
 nav_order: 4

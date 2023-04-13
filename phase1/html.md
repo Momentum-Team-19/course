@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: topic
 title: HTML
 parent: Phase 1 Front End
 nav_order: 2

@@ -1,14 +1,15 @@
-- title: Welcome to Python
+- title: Intro to Python
   phase: 2
-  date:
-  page: phase2/welcome.md
+  date: 2023-05-08
+  page: phase2/intro-to-python.md
   project_name:
   code_demo: 
-  published: false
+  post_today: true
+  published: true
 - title: Python Conditionals and Loops
   phase: 2
   date:
-  page: phase2/py-exercises.md
+  page: phase2/py-conditionals-and-loops.md
   project_name:
   code_demo:
   published: false
@@ -19,7 +20,7 @@
   project_name:
   code_demo:
   published: false
-- title: Python List Comprehensions and Lambdas
+- title: Python List Comprehensions
   phase: 2
   date:
   page: phase2/py-list-comps.md

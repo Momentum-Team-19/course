@@ -47,7 +47,7 @@ layout: resource_list
 - [Less Obvious Things to Do with the Django ORM](https://markusholtermann.eu/2019/03/less-obvious-things-to-do-with-djangos-orm/)
 - [Django Migrations: How To Add Non-Nullable Fields Without A Default Value](https://ctrlzblog.com/django-migrations-how-to-add-non-nullable-fields-without-compromising-your-database/)
 
-### Authentication, Registration, and the User Model in Django
+### Authentication, Registration, and the User Model
 
 - [django-registration-redux](https://django-registration-redux.readthedocs.io/en/latest/index.html)
     - We are using the [simple (one-step) backend](https://django-registration-redux.readthedocs.io/en/latest/simple-backend.html#the-simple-one-step-backend)
@@ -63,9 +63,12 @@ layout: resource_list
 - [Foreign Key to built-in User from DjangoGirls](https://tutorial.djangogirls.org/en/django_models/#creating-a-blog-post-model)
 - [Extending the User model (preferred, used in Uptact)](https://simpleisbetterthancomplex.com/tutorial/2016/07/22/how-to-extend-django-user-model.html)
 
-### URLs and Templates
+### URLs
 
 - [Django Docs URLs](https://docs.djangoproject.com/en/4.0/topics/http/urls/)
+
+### Templates
+
 - [Django Docs Template Language](https://docs.djangoproject.com/en/4.0/ref/templates/)
 
 ### Django Packages

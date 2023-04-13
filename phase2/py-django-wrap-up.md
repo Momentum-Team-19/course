@@ -1,7 +1,6 @@
 ---
-layout: post
-title: Django Wrap Up 🎬
-tags: phase-2 python list-comprehensions dictionaries
+layout: topic
+title: Django Wrap Up
 topic: Python
 category: phase2
 parent: Phase 2 Back End
@@ -9,8 +8,7 @@ nav_order: 8
 published: false
 ---
 
-
-## Objectives
+## 🎯 Objectives
 
 - Preview of Collaboration for Phase 3
 - End-of-phase technical presentations
@@ -20,21 +18,20 @@ published: false
   - [Tues afternoon SQL, Users, Favorite](https://us02web.zoom.us/rec/share/jBbYYHxn2j-c7KMH7kaUyg0pu466nfMTsJ7JG1j7iFI3-fIqWzbAy2MVYhzU9upn.6eYNj3agjptZaDOH)
       Access Passcode: 2rT$nuN3
 
-## 🎯 Django Music Project due Thursday @ 2:00 pm
+## 🏗️ Django Music Project
+
+Due {{ site.data.phase2.projects.django_music.due_date }}
 
 Thursday afternoon we will not have class. You should use that time to finish work on your presentation.
 
-## Intro to Collaboration with GitHub
+## 🔖 References
 
-- [GitHub Collaboration Docs](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests)
-- [Git Collaboration slides](https://slides.com/amy_nc/git-collaboration/)
-- [Git in VS Code](https://code.visualstudio.com/docs/introvideos/versioncontrol) _Not everyone loves using git on the command line like I do.  A lot of folks like using the integration in VS Code, so you might want to give it a try. This is a good place to start, but there are many other extensions that you could use as well._
+- [Git Collaboration][git-collab]
 
-## 🤩 End-of-Phase Presentation videos due Friday @ 5:00pm
+## 🤩 End-of-Phase Presentation videos due {{ site.data.phase2.projects.end_of_phase.due_date | date: "%A, %B %e" }}
 
 Each person has 4-5 min to talk about one of the following topics using examples from your own code. Please record this presentation as
 you did in Phase 1 and submit using this [form](https://forms.gle/bjaPYNELkD63sdtp9) when done.
-
 
 ### Topics: Pick one
 

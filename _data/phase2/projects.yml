@@ -1,0 +1,17 @@
+thinkific_python:
+  url: https://momentumlearn.thinkific.com/courses/take/back-end-development-with-python-and-django/
+  due_date:
+word_frequency:
+  project_template: https://github.com/momentum-projects/py-word-frequency 
+  url:
+  due_date:
+mystery_word:
+  project_template: https://github.com/momentum-projects/py-mystery-word
+  url:
+  due_date:
+django_music:
+  project_template: 
+  url:
+  due_date:
+end_of_phase:
+  due_date:

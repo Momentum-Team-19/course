@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: topic
 title: Python List Comprehensions and Lambdas
-tags: phase-2 python list-comprehensions dictionaries
 topic: Python
 category: phase2
 parent: Phase 2 Back End
@@ -9,30 +8,23 @@ nav_order: 4
 published: false
 ---
 
-## Today's topics
+## 🎯 Objectives
 
 - List Comprehensions
-  - [Repl.it from class](https://replit.com/@rlconley/ListComp)
 - Lambda functions
 - More breaking down problems
 
-## 🎯 Project
+## 🏗️ Project
 
-- Due Thursday morning, we will work on [Mystery Word](https://classroom.github.com/a/pcd8dBoN) in teams in class.
+- Due {{site.data.phase2.projects.mystery_word.due_date | format | date: "%A, %B %e" }} we will work on [Mystery Word]({{ site.data.phase2.projects.mystery_word.url }}) in teams in class.
 
-- Also by Thursday Morning, please complete the Object Oriented Programming modules in [Thinkific](https://momentumlearn.thinkific.com/manage/courses/1739105/contents/32705516):
+- Also by {{site.data.phase2.projects.mystery_word.due_date | format | date: "%A, %B %e" }}, please complete the Object Oriented Programming modules in [Thinkific]({{ site.data.phase2.projects.mystery_word.url }}):
   - Object Oriented Python
   - Classes and Objects
   - An OOP cat
   - Create Individual Objects From a Class
 
-## 🔖 Resources
+## 🔖 References
 
-- [List Comprehensions](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python)
-- [Lambda Functions](https://realpython.com/python-lambda/)
--
-
-## 🦉 Code & Notes
-
-- [Jupyter Notebooks](https://github.com/Momentum-Team-13/python-notebooks) **Notebooks 13-15**
-
+- [List Comprehensions][lists]
+- [Lambda Functions][sorting]

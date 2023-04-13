@@ -20,6 +20,30 @@
 [js-dates]: {% link references/js-general.md %}#working-with-dates
 [js-forms]: {% link references/js-general.md %}
 
+<!-- phase 2 back end -->
+[python-setup]:{% link references/py-basics.md %}#dev-setup
+[essential-python]: {% link references/py-basics.md %}#essential-python
+[jupyter]: {% link references/py-basics.md %}#jupyter-notebooks
+[realpython-tutorials]: {% link references/py-basics.md %}#real-python-tutorials
+[lists]: {% link references/py-basics.md %}#lists-and-list-comprehensions
+[sorting]: {% link references/py-basics.md %}#sorting-and-lambdas
+[dicts]: {% link references/py-basics.md %}#dictionaries
+[py-oo]: {% link references/py-basics.md %}#object-oriented-python
+[py-classes]: {% link references/py-basics.md %}#classes-in-python
+[py-debugging]: {% link references/py-basics.md %}#debugging
+[django-intro]: {% link references/py-django.md %}#intro-to-django
+[db-intro]: {% link references/py-django.md %}#getting-started-with-the-database-in-django
+[db-intro]: {% link references/py-django.md %}#getting-started-with-the-database-in-django
+[django-debugging]: {% link references/py-django.md %}#debugging-django
+[django-models]: {% link references/py-django.md %}#models-and-queries
+[django-auth]: {% link references/py-django.md %}#authentication-registration-and-the-user-model
+[django-urls]: {% link references/py-django.md %}#urls
+[django-templates]: {% link references/py-django.md %}#templates
+[django-packages]: {% link references/py-django.md %}#django-packages
+[django-images]: {% link references/py-django.md %}#images
+[django-forms]: {% link references/py-django.md %}#forms
+[django-management]: {% link references/py-django.md %}#custom-management-commands
+
 <!-- tools -->
 [markdown]: {% link references/tools.md %}#markdown
 [note-taking]: {% link references/tools.md %}#taking-notes-as-a-developer

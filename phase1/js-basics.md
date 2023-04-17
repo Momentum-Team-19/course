@@ -4,7 +4,7 @@ title: JavaScript Basics
 tags: phase-1 javascript js programming-basics
 parent: Phase 1 Front End
 nav_order: 5
-published: false
+published: true
 ---
 
 ## 🎯 Objectives
@@ -19,8 +19,6 @@ First half due {{ site.data.phase1.projects.js_freecodecamp.due_date | date: "%A
 English:
 [JavaScript practice exercises]({{ site.data.phase1.projects.js_freecodecamp.url }}), from the beginning through "Shopping List" for tomorrow morning.
 
-Español:
-[Los mismos ejercisios en Español]({{ site.data.phase1.projects.js_freecodecamp_espanol.url }}) de 'Comenta tu código' a 'Lista de Compras' antes del martes por la mañana.
 
 ### ✅ TODO Today
 

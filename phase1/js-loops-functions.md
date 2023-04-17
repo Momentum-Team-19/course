@@ -11,15 +11,12 @@ published: false
 
 - Using variables, data types, conditionals, loops, and functions
 
-## 🏗️  Project: Free Code Camp JavaScript Exercises
 
-_Finish Second Half_
+## 🏗️  Project: Free Code Camp JavaScript Exercises
 
 English:
 [JavaScript practice exercises]({{ site.data.phase1.projects.js_freecodecamp.url }})
 
-Español:
-[Los mismos ejercisios en Español]({{ site.data.phase1.projects.js_freecodecamp_espanol.url }})
 
 ## Rebecca's Videos
 

@@ -22,7 +22,7 @@ English:
 
 ### ✅ TODO Today
 
-1. Log in to [http://classroom.momentumlearn.com](http://classroom.momentumlearn.com) and complete your self-evaluation from last week if you have not yet.
+1. Log in to [http://teams.momentumlearn.com](http://teams.momentumlearn.com) and complete your self-evaluation from last week if you have not yet.
 
 ## 🔖 References
 

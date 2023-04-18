@@ -32,14 +32,14 @@
   date: 2023-04-17
   project_name: js_calculator
   page: phase1/js-basics.md
-  code_demo: js-intro
+  code_demo: js-basics
   published: true
 - title: JavaScript Loops & Functions
   phase: 1
   date: 2023-04-18
   page: phase1/js-loops-functions.md
   project_name: js_calculator_2
-  code_demo: js-intro
+  code_demo: js-basics
   published: true
 - title: JavaScript Arrays
   phase: 1

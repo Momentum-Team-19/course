@@ -20,9 +20,9 @@ English:
 
 ## Rebecca's Videos
 
-- [Rebecca's video on variables]({{ site.data.demos.js_variables.video_url }})
-- [Rebecca's video on types]({{ site.data.demos.js_types.video_url }})
-- [Rebecca's video on functions]({{ site.data.demos.js_functions.video_url }})
+- [Rebecca's video on variables]({{ site.data.phase1.demos.js_variables.video_url }})
+- [Rebecca's video on types]({{ site.data.phase1.demos.js_types.video_url }})
+- [Rebecca's video on functions]({{ site.data.phase1.demos.js_functions.video_url }})
 
 ## 🔖 References
 

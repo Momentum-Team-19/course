@@ -45,9 +45,9 @@
   phase: 1
   date: 2023-04-19
   page: phase1/js-arrays.md
-  project_name:
+  project_name: js_calculator
   code_demo:
-  published: false
+  published: true
 - title: JS & the DOM
   phase: 1
   date: 2023-04-20

@@ -15,7 +15,7 @@ published: false
 
 ## 🏗️ Project
 
-[JS Calculator Part 1]({{ site.data.phase1.projects.js_calculator.url }})
+[JS Calculator]({{ site.data.phase1.projects.js_calculator.url }})
 
 ## 🔖 References
 

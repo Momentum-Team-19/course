@@ -52,9 +52,9 @@
   phase: 1
   date: 2023-04-20
   page: phase1/js-dom.md
-  project_name: 
-  code_demo:
-  published: false
+  project_name: js_calculator
+  code_demo: js-dom
+  published: true
 - title: JavaScript Objects
   phase: 1
   date: 2023-04-24

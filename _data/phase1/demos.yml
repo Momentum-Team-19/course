@@ -1,4 +1,4 @@
-html_dog_adoption: 
+html_dog_adoption:
   url: https://github.com/Momentum-Team-18/html-dog-adoption-website-amygori
 css_basics:
   url: https://github.com/Momentum-Team-18/example-css
@@ -38,3 +38,5 @@ js-basics:
   url: https://github.com/Momentum-Team-18/intro-js.git
 js-dom:
   url: https://codepen.io/rlconley/pen/NWObgrR
+js-objects:
+  url: https://github.com/Momentum-Team-18/example-js-objects

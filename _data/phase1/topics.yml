@@ -67,7 +67,7 @@
   date: 2023-04-26
   page: phase1/js-ajax.md
   project_name:
-  code_demo:
+  code_demo: ajax
   published: true
 - title: JS and Forms
   phase: 1

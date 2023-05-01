@@ -71,8 +71,8 @@
   published: true
 - title: JS and Forms
   phase: 1
-  date: 2022-04-26
+  date: 2023-05-01
   page: phase1/js-forms.md
-  project_name:
+  project_name: ajax-notes
   code_demo:
-  published: false
+  published: true

@@ -42,11 +42,13 @@ Please post your video and share the url for it using [this form](https://forms.
 3. You can explain how your code works.
 4. Your presentation includes JavaScript.
 5. You turn in a video.
+6. You ask at least one question in #code-help this week.
 
 ## 🏗️ Project
 
 - We will continue to work on the MyTunes project together during our team meetings.
-- You will have an independent project to work on, [Ajax Notes]({{ site.data.phase1.projects.ajax_notes.url }}) project that reenforces similar concepts.
+- Outside of class: revise your js projects, and select one to present in your video. Ask all the questions you have about how the code in your project works.
+- You will have an OPTIONAL independent project to work on, [Ajax Notes]({{ site.data.phase1.projects.ajax_notes.url }}) project that reenforces similar concepts.
 
 ## 🔖 References
 

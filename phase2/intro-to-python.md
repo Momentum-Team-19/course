@@ -21,7 +21,7 @@ published: true
 
 ## 🏗️ Project
 
-We'll be using Google's Intro to Python course as an introduction to Python concepts. Please complete the [String1.pi](https://developers.google.com/edu/python/exercises/basic) through while statements by Tuesday morning, 5/8.
+We'll be using Google's Intro to Python course as an introduction to Python concepts. Please complete the [string1.py and string2.py exercises](https://developers.google.com/edu/python/exercises/basic) by Tuesday morning, 5/8.
 
 ## 🔖 References
 

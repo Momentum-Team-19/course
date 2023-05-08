@@ -2,7 +2,7 @@
 title: Welcome to Phase 2
 phase: 2
 layout: daily_post
-published: false
+published: true
 ---
 
 Welcome to Phase 2, where we'll be learning about back end development. Topics we'll cover include:

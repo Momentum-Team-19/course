@@ -5,8 +5,8 @@ topic: Python
 category: phase2
 parent: Phase 2 Back End
 nav_order: 1
-published: false
---- 
+published: true
+---
 
 ## 🎯 Objectives
 
@@ -21,7 +21,7 @@ published: false
 
 ## 🏗️ Project
 
-We'll be using the Thinkific content as an introduction to Python concepts. Please complete the [Python section](https://momentumlearn.thinkific.com/courses/take/back-end-development-with-python-and-django/) through while statements by Tuesday morning, 6/14.
+We'll be using Google's Intro to Python course as an introduction to Python concepts. Please complete the [String1.pi](https://developers.google.com/edu/python/exercises/basic) through while statements by Tuesday morning, 5/8.
 
 ## 🔖 References
 

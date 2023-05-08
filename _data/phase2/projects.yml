@@ -1,8 +1,8 @@
-thinkific_python:
-  url: https://momentumlearn.thinkific.com/courses/take/back-end-development-with-python-and-django/
+google_python_intro:
+  url: https://developers.google.com/edu/python/exercises/basic
   due_date:
 word_frequency:
-  project_template: https://github.com/momentum-projects/py-word-frequency 
+  project_template: https://github.com/momentum-projects/py-word-frequency
   url:
   due_date:
 mystery_word:
@@ -10,7 +10,7 @@ mystery_word:
   url:
   due_date:
 django_music:
-  project_template: 
+  project_template:
   url:
   due_date:
 end_of_phase:

@@ -17,7 +17,7 @@
   phase: 2
   date: 2023-05-10
   page: phase2/py-lists-and-dicts.md
-  project_name:
+  project_name: mystery_word
   code_demo: intro_python
   published: true
 - title: Python List Comprehensions

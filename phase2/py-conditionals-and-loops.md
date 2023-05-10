@@ -5,7 +5,7 @@ topic: Python
 category: phase2
 parent: Phase 2 Back End
 nav_order: 2
-published: false
+published: true
 ---
 
 ## 🎯 Objectives
@@ -19,7 +19,7 @@ Python
 
 ## 🏗️ Project
 
-Please complete the [Python section]({{site.data.phase2.projects.thinkific_python.url}}) through "More iterating with Python" by {{site.data.phase2.projects.thinkific_python.due_date | date: "%A, %B %e" }}.
+Continue Google exercises
 
 ## 🔖 References
 

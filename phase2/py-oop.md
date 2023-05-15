@@ -5,8 +5,8 @@ tags: phase-2 python list-comprehensions dictionaries
 topic: Python
 category: phase2
 parent: Phase 2 Back End
-nav_order: 5
-published: false
+nav_order: 4
+published: true
 ---
 
 Today, we'll take a brief survey of classes and objects in Python to get us ready to take on Django.
@@ -33,17 +33,8 @@ Please indicate your answers on this [form](https://forms.gle/zNseNiaQbtHwTxcg6)
 
 ## 🎯 Project
 
-For Thursday afternoon through the weekend, DUE MONDAY:
-**[Link to turn in your deployed DjangoGirls blog project]**
-(https://forms.gle/QAeQBJNMRoHxX8ik9)
-- [Thinkific Object Oriented Python -> end of unit (4 sections)](https://momentumlearn.thinkific.com/manage/courses/1739105/contents/32705516)
-- [DjangoGirls (English)](https://tutorial.djangogirls.org/en/) or
-- [DjangoGirls (Español)](https://tutorial.djangogirls.org/es/)
-
-**UPDATE: this was aspirational. Blackjack will NOT be due, but you are
-welcome to try it**
 This week, we will be applying principles of Object Oriented Programming in Python to build a Blackjack card game.
-[OO Blackjack in Python](https://classroom.github.com/a/NtNFUlRd)
+[OO Blackjack in Python](https://classroom.github.com/a/607wrFwh)
 
 ## 🔖 Resources
 
@@ -71,5 +62,5 @@ This week, we will be applying principles of Object Oriented Programming in Pyth
 
 ## 🦉 Code & Notes
 
-- [Jupyter Notebooks](https://github.com/Momentum-Team-11/python-notebooks) **Notebooks 13-15**
+- [Object Oriented Programming in Python](https://github.com/Momentum-Team-18/notes/blob/main/py-oo-programming.md)
 - [Repl from class: Word Frequency OO](https://replit.com/@rlconley/Classes#main.py)

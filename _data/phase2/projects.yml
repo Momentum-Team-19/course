@@ -9,6 +9,10 @@ mystery_word:
   project_template: https://github.com/momentum-projects/py-mystery-word
   url: https://github.com/Momentum-Team-18/py-intro-examples
   due_date: 
+python_blackjack:
+  project_template: https://github.com/momentum-assignments/py--oop-blackjack
+  url: https://classroom.github.com/a/607wrFwh
+  due_date:
 django_music:
   project_template:
   url:

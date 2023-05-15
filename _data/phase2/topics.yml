@@ -32,7 +32,7 @@
   date: 2023-05-15
   page: phase2/py-oop.md
   project_name:
-  code_demo:
+  code_demo: object_oriented
   published: true
 - title: Getting Used to Working in Django
   phase: 2

@@ -36,11 +36,11 @@
   published: true
 - title: Getting Used to Working in Django
   phase: 2
-  date:
+  date: 2023-05-18
   page: phase2/py-intro-django.md
-  project_name:
-  code_demo:
-  published: false
+  project_name: djangogirls_tutorial
+  code_demo: django_games
+  published: true
 - title: Django CRUD
   phase: 2
   date:

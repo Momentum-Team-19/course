@@ -19,3 +19,7 @@ django_music:
   due_date:
 end_of_phase:
   due_date:
+djangogirls_tutorial: 
+  project_template: https://github.com/momentum-assignments/django-girls-tutorial
+  url: https://github.com/Momentum-Team-18/djangogirls-tutorial.git
+  due_date:

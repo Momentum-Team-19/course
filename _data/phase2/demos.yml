@@ -6,3 +6,5 @@ intro_python:
   url: https://github.com/Momentum-Team-18/py-intro-examples
 object_oriented:
   url: https://github.com/Momentum-Team-18/examples-oop
+django_games:
+  url: https://github.com/Momentum-Team-18/example-django-games

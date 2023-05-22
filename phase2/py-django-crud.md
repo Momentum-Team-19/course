@@ -4,8 +4,8 @@ title: Django CRUD
 topic: Python
 category: phase2
 parent: Phase 2 Back End
-nav_order: 7
-published: false
+nav_order: 5
+published: true
 ---
 
 

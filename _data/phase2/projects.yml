@@ -18,8 +18,11 @@ django_music:
   url: https://classroom.github.com/a/YXgvEBTc
   due_date: 2023-05-25
 end_of_phase:
-  due_date:
+  due_date: 2023-06-02
 djangogirls_tutorial: 
   project_template: https://github.com/momentum-assignments/django-girls-tutorial
   url: https://github.com/Momentum-Team-18/djangogirls-tutorial.git
   due_date:
+django-duplex:
+  project_template: https://github.com/momentum-assignments/django--duplex
+  url: https://classroom.github.com/a/qtFxW2b-

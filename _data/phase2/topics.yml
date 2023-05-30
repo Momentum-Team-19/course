@@ -50,8 +50,8 @@
   published: true
 - title: Django Wrap Up 🎬
   phase: 2
-  date:
+  date: 2023-05-30
   page: phase2/py-django-wrap-up.md
   project_name:
-  code_demo:
-  published: false
+  code_demo: django_courses
+  published: true

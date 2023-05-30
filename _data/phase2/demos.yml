@@ -8,3 +8,5 @@ object_oriented:
   url: https://github.com/Momentum-Team-18/examples-oop
 django_games:
   url: https://github.com/Momentum-Team-18/example-django-games
+django_courses:
+  url: https://github.com/Momentum-Team-18/example-django-courses

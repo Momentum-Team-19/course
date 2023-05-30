@@ -4,21 +4,21 @@ title: Django Wrap Up
 topic: Python
 category: phase2
 parent: Phase 2 Back End
-nav_order: 8
-published: false
+nav_order: 6
+published: true
 ---
 
 ## 🎯 Objectives
 
 - Preview of Collaboration for Phase 3
-- End-of-phase technical presentations
+- End-of-phase technical presentation videos - due Friday, June 2 at noon.
 - Videos of Django Music review
   - [Wed afternoon M2M](https://us02web.zoom.us/rec/share/7pNVQecU8Y2y-SNkOdgDSXqrRHTB1O3mxLkf1IsjIZPTtTsUcCE08JKJo1_gtCVc.8VkiqRjq0gN-NuNQ)
       Access Passcode: Q?&x@h72
   - [Tues afternoon SQL, Users, Favorite](https://us02web.zoom.us/rec/share/jBbYYHxn2j-c7KMH7kaUyg0pu466nfMTsJ7JG1j7iFI3-fIqWzbAy2MVYhzU9upn.6eYNj3agjptZaDOH)
       Access Passcode: 2rT$nuN3
 
-## 🏗️ Django Music Project
+## 🏗️ Django Duplex Project
 
 Due {{ site.data.phase2.projects.django_music.due_date }}
 
@@ -27,15 +27,16 @@ Thursday afternoon we will not have class. You should use that time to finish wo
 ## 🔖 References
 
 - [Git Collaboration][git-collab]
+  - This is how you will be doing collaboration with teammates in phase 3.
 
 ## 🤩 End-of-Phase Presentation videos due {{ site.data.phase2.projects.end_of_phase.due_date | date: "%A, %B %e" }}
 
 Each person has 4-5 min to talk about one of the following topics using examples from your own code. Please record this presentation as
-you did in Phase 1 and submit using this [form](https://forms.gle/bjaPYNELkD63sdtp9) when done.
+you did in Phase 1 and submit using this [form](https://forms.gle/w2sStXpX5rUw9qb76) when done.
 
 ### Topics: Pick one
 
-For all topics, **the code should be from Django Music**. If you have a different project that you want to present, or want to present on a topic not listed, please talk to me to get approval.
+For all topics, **the code should be from Django Music or Django Duplex**. If you have a different project that you want to present, or want to present on a topic not listed, please talk to me to get approval.
 
 1. Pick any url, view, and template that you worked on. Walk through what happens _in the code_ when that url is typed into the browser's address bar (or a link with that url is clicked). You should talk about:
       - the url in urls.py

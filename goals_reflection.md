@@ -11,7 +11,7 @@ nav_exclude: true
 
 This is a good opportunity to pause and remember why you set out to learn to code in the first place. Examine what you have been doing so far that's been working well, and ask yourself if you have some habits or practices that have not served you very well. A renewed focus on your goals will help you get through the challenges of the next 8 weeks!
 
-## Reflection & goal setting
+## Reflect & Set Goals
 
 For each of these questions, spend no more than 2-3 minutes free writing* an answer. This is for yourself only, not to turn in.
 
@@ -27,6 +27,20 @@ When you think about getting a job as a developer, what kind of work do you see 
 2. What have been your biggest technical challenges or obstacles? What has been the hardest thing for you to learn so far?
 3. What are your top 3 technical goals for yourself at this point? What do you want to accomplish in the second half of the program?
 
+### Free Write: Behavioral Goals
+
+The so-called "soft-skills" can be hard to put into practice. How are you doing with things like:
+
+- Asking technical questions?
+- Admitting when you don't understand something and seeking out help?
+- Explaining what your code is doing?
+- Working with other folks on the team?
+- Volunteering to show your code during team meetings?
+- Getting work completed and submitted on time?
+- Managing your time so that lab time, evenings, and weekends are productive?
+
+Identify at least one area that is _not_ technical where you would like to improve over the next 8 weeks, and list 3 tactics you will try to make it happen. If you want ideas for effective tactics, just ask in Slack!
+
 ### Free Write: Start/Stop/Continue
 
 Reflect on things that you have been doing so far in your work at Momentum. Have your choices and actions been serving your goals?
@@ -35,6 +49,8 @@ Reflect on things that you have been doing so far in your work at Momentum. Have
 2. What do you want to **STOP** doing this phase (something that has not been working for you)?
 3. What do you want to **CONTINUE** doing that has been serving you well?
 
-## Sharing
+## Share your advice
 
-If you have any tips for things that have been helping you, please share in our team Slack! Likewise, if you could use some advice on how to deal with something that's been hard for you, let folks know. Your colleagues are often your best resource.
+If you have any tips for things that have been helping you, please share in our team Slack! 
+
+Likewise, if you could use some advice on how to deal with something that's been hard for you, let folks know. Your colleagues are often your best resource.

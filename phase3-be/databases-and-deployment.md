@@ -5,14 +5,13 @@ topic: Python
 category: phase3-be
 parent: Phase 3 Back End
 nav_order: 1
-published: false
+published: true
 ---
 
 ## 🎯 Objectives
 
 - Using [PostgreSQL](https://www.postgresql.org/) with Django
 - Deploying Django applications to [Render](https://www.render.com/)
-
 
 ## 🏗️ Project: Habit Tracker
 

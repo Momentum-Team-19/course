@@ -9,15 +9,15 @@
 - title: Hello React World
   tag: fe
   phase: 3
-  date:
+  date: 2023-06-06
   page: phase3-fe/intro-react.md
   project_name: react_freeshelf
   code_demo:
-  published: false
+  published: true
 - title: Components, Props, and State
   tag: fe
   phase: 3
-  date:
+  date: 2023-06-08
   page: phase3-fe/props-and-state.md
   project_name: react_slides
   code_demo:
@@ -25,7 +25,7 @@
 - title: AJAX and APIs
   tag: fe
   phase: 3
-  date:
+  date: 2023-06-12
   page: phase3-fe/ajax-and-apis.md
   project_name: react_trivia
   code_demo: https://github.com/Momentum-Team-17/example-react-devs
@@ -33,7 +33,7 @@
 - title: Multiple Components and Conditional Rendering
   tag: fe
   phase: 3
-  date:
+  date: 2023-06-13
   page: phase3-fe/multiple-components.md
   project_name: react_trivia
   code_demo: https://github.com/Momentum-Team-17/example-react-devs
@@ -41,7 +41,7 @@
 - title: Deploying a React App
   tag: fe
   phase: 3
-  date:
+  date: 2023-06-15
   page: phase3-fe/data-and-deployment.md
   project_name: react_job_search
   code_demo: https://github.com/Momentum-Team-17/example-react-devs
@@ -49,7 +49,7 @@
 - title: Authentication in React
   tag: fe
   phase: 3
-  date:
+  date: 2023-06-20
   page: phase3-fe/auth-in-react.md
   project_name: collaborative_project
   code_demo: https://github.com/Momentum-Team-17/example-react-auth
@@ -58,7 +58,7 @@
 - title: Forms in React
   tag: fe
   phase: 3
-  date:
+  date: 2023-06-21
   page: phase3-fe/react-forms.md
   project_name:
   code_demo: https://github.com/Momentum-Team-17/example-react-auth
@@ -66,7 +66,7 @@
 - title: URL Routing in React
   tag: fe
   phase: 3
-  date:
+  date: 2023-06-22
   page: phase3-fe/react-router.md
   project_name:
   code_demo: https://github.com/Momentum-Team-17/example-react-auth

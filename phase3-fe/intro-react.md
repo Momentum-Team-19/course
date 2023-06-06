@@ -5,9 +5,8 @@ topic: JavaScript
 category: phase3-fe
 parent: Phase 3 Front End
 nav_order: 2
-published: false
+published: true
 ---
-
 
 ## 🎯 Objectives
 
@@ -20,12 +19,11 @@ published: false
 
 Today, you'll start on your first React app without a tutorial. This is **due on {{ site.data.phase3.projects.react_freeshelf.due_date | date: "%A, %B %e" }}**.
 
-[React Freeshelf]({{ site.team_github_org }}/react-freeshelf-){:#custom-repo-link}
+[React Freeshelf]({{ site.data.phase3.projects.react_freeshelf.url }})
 
-This should be challenging.
+Expect this to be challenging.
 
 🧰 Please be sure to install AND USE the [React Developer Tools for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en).
-
 
 ## 🛠️ Setup
 
@@ -33,16 +31,13 @@ Make sure you have the following set up in your local environment.
 
 - [Node & `npm`][npm]
 - [ESLint for VS Code][eslint]
-- [React developer tools for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
-
+- [React Developer Tools for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 
 ## 📖 Read | 📺 Watch | 🎧 Listen
 
-- ⭐ 📖 [React Quick Start (beta docs)](https://beta.reactjs.org/learn) These docs are still being written, so they are incomplete, but what is written is much more helpful than the older offical docs.
-- 📖 [React docs](https://reactjs.org/docs/getting-started.html)
-- 📺 [Kent C. Dodds, The Introduction to React You've Been Missing](https://www.youtube.com/watch?v=SAIdyBFHfVU)
-- 🎧 [Syntax.fm podcast: The React Episode](https://syntax.fm/show/066/the-react-episode)
-- 📖 [A Complete Beginner's Guide to npm](https://css-tricks.com/a-complete-beginners-guide-to-npm/)
+- ⭐ 📖 [React Official Docs: Learn](https://react.dev/learn) The Quick Start is a great overview; the longer sections called "Describing the UI", "Adding Interactivity", and "Managing State" are excellent detailed walkthroughs with interactive exercises.
+- 🎧 [Syntax.fm podcast](https://syntax.fm/) One of the best front-end podcasts out there. Listen to any episode that seems interesting to you.
+- 📖 [A Complete Beginner's Guide to npm](https://css-tricks.com/a-complete-beginners-guide-to-npm/) Helpful for when you feel lost in the sauce with all the npm things.
 
 ## 🔖 References
 

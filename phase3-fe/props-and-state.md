@@ -5,7 +5,7 @@ topic: JavaScript
 category: phase3-fe
 parent: Phase 3 Front End
 nav_order: 3
-published: false
+published: true
 ---
 
 ## 🎯 Objectives
@@ -18,7 +18,7 @@ published: false
 
 Today, you'll start on your first React app from scratch. This is **due on {{ site.data.phase3.projects.react_slides.due_date | date: "%A, %B %e" }}**.
 
-[React Slideshow]({{ site.data.phase3.projects.react_slides.url }}){:#custom-repo-link}
+[React Slideshow]({{ site.data.phase3.projects.react_slides.url }})
 
 🧰 Please be sure that you have installed AND remember to use the [React Developer Tools for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en).
 

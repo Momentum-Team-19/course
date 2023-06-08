@@ -20,7 +20,7 @@
   date: 2023-06-08
   page: phase3-fe/props-and-state.md
   project_name: react_slides
-  code_demo:
+  code_demo: https://github.com/Momentum-Team-18/example-react-devs
   published: true
 - title: AJAX and APIs
   tag: fe

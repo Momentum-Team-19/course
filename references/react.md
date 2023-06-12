@@ -10,16 +10,15 @@ layout: resource_list
 ## Tutorials
 
 - [Ali Spittel, Beginner's Guide to React Tutorial](https://welearncode.com/beginners-guide-react-2020/)
-- [The official (beta) React tutorial](https://beta.reactjs.org/learn/tutorial-tic-tac-toe) - classic, official.
+- [The official React tutorial](https://react.dev/learn/tutorial-tic-tac-toe) - classic, official.
 - [Kent C. Dodds, The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
 - [Dave Ceddia, React Tutorial](https://daveceddia.com/react-getting-started-tutorial/)
 
 ## Getting Started
 
-- ⭐ [Official (Beta) React Docs](https://beta.reactjs.org/learn)
+- ⭐ [Official React Docs](https://react.dev/learn/)
 - [React Dev Tools Extension Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) Essential. Please install it.
-- [Create React App Docs](https://create-react-app.dev/docs/getting-started)
-- [Older Official React docs](https://reactjs.org/docs/getting-started.html) Uses older class syntax intead of hooks.
+- [Vite](https://vitejs.dev/guide/)
 
 ## React Concepts
 
@@ -57,9 +56,10 @@ layout: resource_list
 
 ## Managing State
 
-- [Using the State Hook](https://reactjs.org/docs/hooks-state.html)
-- [Lifting State Up](https://reactjs.org/docs/lifting-state-up.html) -- This is the official doc page, so it includes examples with older React sytax using JavaScript classes for components. To see it with hooks, watch the video [Lifting State Up with Hooks](https://www.youtube.com/watch?v=HF4o9KAZNxw).
-- [React Beta Docs: Managing State](https://beta.reactjs.org/learn/managing-state)
+- [State: A Component's Memory](https://react.dev/learn/state-a-components-memory)
+- [React Docs: `useState`](https://react.dev/reference/react/useState)
+- [Sharing State between Components: Lifting State Up](https://react.dev/learn/sharing-state-between-components)
+- [React Docs: Managing State](https://react.dev/learn/managing-state)
 - [Syntax.fm podcast: State in React](https://syntax.fm/show/170/state-in-react)
 
 ## Conditional Rendering
@@ -113,7 +113,7 @@ layout: resource_list
 
 _See also [JS: Forms][js-forms] and [HTML: Forms][html-forms]_
 
-- [React beta docs API reference: working with `<input>`](https://beta.reactjs.org/reference/react-dom/components/input)
+- [React docs: working with `<input>`](https://react.dev/reference/react-dom/components/input)
 - [React Mental Model: Working with Input](https://learnreact.design/posts/react-mental-model-html-input)
 - [Dave Ceddia: React Forms](https://daveceddia.com/react-forms/)
 - [React Official Docs: Uncontrolled components](https://reactjs.org/docs/uncontrolled-components.html)

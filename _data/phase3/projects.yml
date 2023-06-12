@@ -3,8 +3,8 @@ habit_tracker:
   url: https://classroom.github.com/a/SrztWzln
   due_date: 2023-06-08
 drf_tutorial:
-  url: 
-  due_date:
+  url: https://www.django-rest-framework.org/tutorial/quickstart/
+  due_date: 2023-06-14
 drf_tutorial_guide:
   url: 
   due_date:

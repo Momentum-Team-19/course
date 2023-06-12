@@ -10,43 +10,43 @@
 - title: Models and Queries
   tag: be
   phase: 3
-  date:
+  date: 2023-06-06
   page: phase3-be/models-and-queries.md
   project_name: habit_tracker
-  code_demo:
-  published: false
+  code_demo: todos_app
+  published: true
 - title: Queries & Using the Shell
   tag: be
   phase: 3
-  date:
+  date: 2023-06-07
   page: phase3-be/queries-and-django-shell.md
   project_name: habit_tracker
-  code_demo:
-  published: false
+  code_demo: todos_app
+  published: true
 - title: HTTP and REST
   tag: be
   phase: 3
-  date:
+  date: 2023-06-08
   page: phase3-be/http-and-rest.md
   project_name: drf_tutorial
-  code_demo: https://github.com/Momentum-Team-17/example-drf-rabbit-snacker
-  published: false
+  code_demo: 
+  published: true
 - title: Intro to Django REST Framework
   tag: be
   phase: 3
-  date:
+  date: 2023-06-12
   page: phase3-be/drf.md
   project_name: drf_choose_your_own_adventure
-  code_demo:
-  published: false
+  code_demo: habit_tracker
+  published: true
 - title: DRF Views and Serializers
   tag: be
   phase: 3
-  date:
+  date: 2023-06-13
   page: phase3-be/drf-serializers-and-views.md
   project_name: drf_choose_your_own_adventure
   code_demo:
-  published: false
+  published: true
 - title: Token Authentication and CORS
   tag: be
   phase: 3

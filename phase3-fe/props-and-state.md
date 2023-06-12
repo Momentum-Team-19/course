@@ -25,9 +25,9 @@ Today, you'll start on your first React app from scratch. This is **due on {{ si
 ## 📖 Read | 📺 Watch | 🎧 Listen
 
 - 📖 [What is React? A Visual Introduction for Beginners](https://learnreact.design/posts/what-is-react)
-- 📖 [Thinking in React](https://beta.reactjs.org/learn/thinking-in-react)
+- 📖 [Thinking in React](https://react.dev/learn/thinking-in-react)
 - 📖 [React Mental Model: Cutting Holes in HTML](https://learnreact.design/posts/react-mental-model-cut-holes-in-html-template)
-- 📖 [Using the State Hook](https://reactjs.org/docs/hooks-state.html)
+- 📖 [State: A Component's Memory](https://react.dev/learn/state-a-components-memory)
 - 🎧 [Podcast: Advice for New Devs](https://syntax.fm/show/382/advice-for-new-devs) If you haven't listened to this yet, don't miss it.
 
 ## 🔖 References

@@ -156,7 +156,7 @@ When you come back to your code, you’ll have a fresh perspective and new ideas
 
 ### Knowing when to quit at the end of the day
 
-When to turn in homework is your call, but remember that it does not have to be perfect. If you’re not making any more progress and you feel like you are at the limit of what you can do, it’s time to submit what you have. We’d rather that you come to class well-rested and with specific questions than stay up too late going around in circles.
+When to turn in your project is your call, but remember that it does not have to be perfect. If you’re not making any more progress and you feel like you are at the limit of what you can do, it’s time to submit what you have. We’d rather that you come to class well-rested and with specific questions than stay up too late going around in circles.
 
 ## Developers are problem-solvers, not wizards
 

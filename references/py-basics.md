@@ -80,7 +80,7 @@ These articles are way more in-depth than you need right now, but they are good 
 
 ## Classes in Python
 
-- [Python Docs: Clases](https://docs.python.org/es/3/tutorial/classes.html)
+- [Python Docs: Classes](https://docs.python.org/es/3/tutorial/classes.html)
 - [StackOverflow: How do I design a class in Python?](https://stackoverflow.com/questions/4203163/how-do-i-design-a-class-in-python/4203836#4203836)
 - [Special Methods (aka magic methods) in the Python Docs](https://docs.python.org/3/reference/datamodel.html#special-method-names)
 - [Nombres Especiales de Método](https://docs.python.org/es/3/reference/datamodel.html#special-method-names)

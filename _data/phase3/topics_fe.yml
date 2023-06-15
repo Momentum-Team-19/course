@@ -45,7 +45,7 @@
   page: phase3-fe/data-and-deployment.md
   project_name: react_job_search
   code_demo: https://github.com/Momentum-Team-18/example-react-devs
-  published: false
+  published: true
 - title: Authentication in React
   tag: fe
   phase: 3

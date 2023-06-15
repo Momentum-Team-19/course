@@ -5,7 +5,7 @@ topic: JavaScript
 category: phase3-fe
 parent: Phase 3 Front End
 nav_order: 6
-published: false
+published: true
 ---
 
 ## 🎯 Objectives
@@ -13,7 +13,7 @@ published: false
 - Finding & fixing bugs in your project
 - Deploying to [Netlify](https://www.netlify.com/with/react/)
 
-## 🏗️ Project: React Trivia OR React Job Search
+## 🏗️ Project: React Job Search
 
 If you haven't finished React Trivia, you should aim to finish that. If you have finished it, or finish it early, please do the React Job Search project.
 
@@ -31,7 +31,7 @@ Your application should meet at least the **minimum functional requirements** an
 
 ## 🔖 References
 
-- [Instructions for deploying a React App to Netlify]([Instructions for deploying a React app to Netlify](https://momentumlearn.notion.site/Deploying-a-React-app-to-Netlify-409f3e2a2ae44ccd857b3797ff0963f8))
+- [Instructions for deploying a React app to Netlify](https://momentumlearn.notion.site/Deploying-a-React-app-to-Netlify-409f3e2a2ae44ccd857b3797ff0963f8)
 - [Deployment][react-deploy]
 - [Managing State][react-state]
 - [Fetching data in React][react-requests]

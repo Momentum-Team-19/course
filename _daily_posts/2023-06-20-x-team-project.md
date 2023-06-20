@@ -33,13 +33,13 @@ You'll work on two combined front-end and back-end teams. Each team will build a
 
 **Team leads, your role is to manage team efforts today.** You may rotate this role after today if your team wishes.
 
-| Team Fire 🔥 | Team Ice 🧊 |
-| ----------- | ---------- |
-| Laura       | Teddy      |
-| Alain       | Meagan     |
-| Matt        | Steve      |
-| Anna        | Q          |
-| Alex        |            |
+| Team Fire 🔥       | Team Ice 🧊        |
+| ----------------- | ----------------- |
+| Laura (team lead) | Teddy (team lead) |
+| Alain             | Meagan            |
+| Matt              | Steve             |
+| Anna              | Q                 |
+| Alex              |                   |
 
 ### How to work as one team
 

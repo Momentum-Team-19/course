@@ -53,7 +53,7 @@
   page: phase3-fe/auth-in-react.md
   project_name: collaborative_project
   code_demo: https://github.com/Momentum-Team-18/example-react-auth
-  published: false
+  published: true
   post_today: true
 - title: Forms in React
   tag: fe

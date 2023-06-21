@@ -60,9 +60,9 @@
   phase: 3
   date: 2023-06-21
   page: phase3-fe/react-forms.md
-  project_name:
+  project_name: collaborative_project
   code_demo: https://github.com/Momentum-Team-18/example-react-auth
-  published: false
+  published: true
 - title: URL Routing in React
   tag: fe
   phase: 3

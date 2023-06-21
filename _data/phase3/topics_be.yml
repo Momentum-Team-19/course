@@ -50,20 +50,20 @@
 - title: Token Authentication and CORS
   tag: be
   phase: 3
-  date:
+  date: 2023-06-20
   page: phase3-be/token-auth.md
   project_name: collaborative_project
   code_demo: https://github.com/Momentum-Team-17/example-drf-rabbit-snacker
   post_today: true
-  published: false
+  published: true
 - title: Models and API Design
   tag: be
   phase: 3
-  date:
+  date: 2023-06-21
   page: phase3-be/models-api-design.md
   project_name: collaborative_project
   code_demo: https://github.com/Momentum-Team-17/example-drf-rabbit-snacker
-  published: false
+  published: true
 - title: API Endpoints
   tag: be
   phase: 3

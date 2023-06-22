@@ -5,13 +5,13 @@ topic: JavaScript
 category: phase3-fe
 parent: Phase 3 Front End
 nav_order: 9
-published: false
+published: true
 ---
 
 ## 🎯 Objectives
 
 - How are projects coming along? 👀
-- Review Login and add Logout
+- Review Login with local storage and add Logout
 - Client-side routing with [React Router](https://reactrouter.com/en/main)
 - Organizing your files
 
@@ -38,7 +38,7 @@ For starters, here are two good takes on how to organize your files.
 
 ## 🔖 References
 
-- [Organizing your files][react-file-structure]
 - [Using React Router][react-router]
+- [Organizing your files][react-file-structure]
 
 {% include reference_links.md %}

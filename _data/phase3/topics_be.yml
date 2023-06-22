@@ -67,11 +67,11 @@
 - title: API Endpoints
   tag: be
   phase: 3
-  date:
+  date: 2023-06-22
   page: phase3-be/endpoints.md
   project_name: collaborative_project
   code_demo:
-  published: false
+  published: true
 - title: Search with DRF and Postgres
   tag: be
   phase: 3

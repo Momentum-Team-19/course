@@ -52,7 +52,7 @@
   date: 2023-06-20
   page: phase3-fe/auth-in-react.md
   project_name: collaborative_project
-  code_demo: https://github.com/Momentum-Team-18/example-react-auth
+  code_demo: https://github.com/Momentum-Team-18/example-react-library
   published: true
   post_today: true
 - title: Forms in React
@@ -61,7 +61,7 @@
   date: 2023-06-21
   page: phase3-fe/react-forms.md
   project_name: collaborative_project
-  code_demo: https://github.com/Momentum-Team-18/example-react-auth
+  code_demo: https://github.com/Momentum-Team-18/example-react-library
   published: true
 - title: URL Routing in React
   tag: fe
@@ -69,8 +69,8 @@
   date: 2023-06-22
   page: phase3-fe/react-router.md
   project_name:
-  code_demo: https://github.com/Momentum-Team-18/example-react-auth
-  published: false
+  code_demo: https://github.com/Momentum-Team-18/example-react-library
+  published: true
 - title: Search in React
   tag: fe
   phase: 3

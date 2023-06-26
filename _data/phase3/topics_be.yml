@@ -75,18 +75,18 @@
 - title: Search with DRF and Postgres
   tag: be
   phase: 3
-  date:
+  date: 2023-06-26
   page: phase3-be/full-text-search.md
-  project_name: collaborative_project
+  project_name:
   code_demo:
-  published: false
+  published: true
   post_today: true
 - title: File & Image Upload
   tag: be
   phase: 3
-  date:
+  date: 2023-06-27
   page: phase3-be/file-and-image-upload.md
-  project_name: collaborative_project
+  project_name:
   code_demo:
   published: false
   post_today: true

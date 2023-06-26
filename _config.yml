@@ -96,6 +96,22 @@ defaults:
     values:
       layout: daily_post
 
+# https://just-the-docs.com/docs/configuration/#callouts
+callouts:
+  phase-success:
+    title: Requirements to complete the phase
+    color: brand-branch-green
+  blue:
+    color: brand-royal-blue
+  lt-blue:
+    color: brand-sky-blue
+  violet:
+    color: brand-violet
+  green:
+    color: brand-branch-green
+  red:
+    color: brand-ruby-red
+
 compress_html:
   clippings: all
   comments: all

@@ -176,6 +176,13 @@ For starters, here are two good takes on how to organize your files.
 - [A Complete Guide to React Router](https://ui.dev/react-router-tutorial/) _really comprehensive, really good_
 - [The Complete Guide to URL Parameters with React Router](https://ui.dev/react-router-url-parameters/)
 
+### Authenticated-Only Routing
+
+Private, or protected, routes are those that are only allowed for logged-in users. You will often want to do this in your application for things like a users' own personal dashboard or a form to create a new resource of some kind.
+
+- [React Router 6: Private Routes (alias Protected Routes)](https://www.robinwieruch.de/react-router-private-routes/)
+- [Protected Routes and Authentication with React Router](https://ui.dev/react-router-protected-routes-authentication)
+
 ## Search
 
 - [Axios Docs: Including search params in the request config](https://github.com/axios/axios#request-config)

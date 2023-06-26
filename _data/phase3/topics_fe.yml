@@ -71,15 +71,23 @@
   project_name:
   code_demo: https://github.com/Momentum-Team-18/example-react-library
   published: true
+- title: Routing with Auth in React
+  tag: fe
+  phase: 3
+  date: 2023-06-26
+  page: phase3-fe/routing-with-auth.md
+  project_name:
+  code_demo: https://github.com/Momentum-Team-18/example-react-library
+  published: true
+  post_today: true
 - title: Search in React
   tag: fe
   phase: 3
-  date:
+  date: 2023-06-27
   page: phase3-fe/search.md
   project_name:
-  code_demo: https://github.com/Momentum-Team-18/example-react-auth
+  code_demo: https://github.com/Momentum-Team-18/example-react-library
   published: false
-  post_today: true
 - title: Uploading Files
   tag: fe
   phase: 3

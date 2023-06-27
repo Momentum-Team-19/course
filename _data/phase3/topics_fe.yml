@@ -87,12 +87,12 @@
   page: phase3-fe/search.md
   project_name:
   code_demo: https://github.com/Momentum-Team-18/example-react-library
-  published: false
+  published: true
 - title: Uploading Files
   tag: fe
   phase: 3
-  date:
+  date: 2023-06-28
   page: phase3-fe/file-upload.md
   project_name:
-  code_demo:
+  code_demo: https://github.com/Momentum-Team-18/example-react-library
   published: false

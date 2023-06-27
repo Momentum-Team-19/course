@@ -4,8 +4,8 @@ title: Search in React
 topic: JavaScript
 category: phase3-fe
 parent: Phase 3 Front End
-nav_order: 10
-published: false
+nav_order: 11
+published: true
 ---
 
 ## 🎯 Objectives
@@ -17,7 +17,7 @@ To implement search in your application, you will need to collect user input and
 
 ## 🏗️ Project
 
-What can you work on to deepen your understanding of React this week?
+Where do things stand with your project today? What tasks are highest priority today and tomorrow? Is there anything blocking you from making progress?
 
 ## Example Search Request with Query Params
 

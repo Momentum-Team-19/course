@@ -78,7 +78,7 @@
   date: 2023-06-26
   page: phase3-be/full-text-search.md
   project_name:
-  code_demo:
+  code_demo: https://github.com/Momentum-Team-18/example-drf-library-api
   published: true
   post_today: true
 - title: File & Image Upload
@@ -87,5 +87,5 @@
   date: 2023-06-27
   page: phase3-be/file-and-image-upload.md
   project_name:
-  code_demo:
+  code_demo: https://github.com/Momentum-Team-18/example-drf-library-api
   published: true

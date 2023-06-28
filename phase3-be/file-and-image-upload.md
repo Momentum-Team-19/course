@@ -63,7 +63,7 @@ CORS_ALLOW_HEADERS = list(default_headers) + [
 
 ## 🔖 References
 
-- [DRF File Upload][file-upload]
+- [DRF File Upload][be-file-upload]
 - [CORS][cors]
 - [HTTP Headers][http-headers]
 

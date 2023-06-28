@@ -65,7 +65,7 @@
 [drf-search]: {% link references/drf.md %}#search
 [drf-filtering]: {% link references/drf.md %}#filtering
 [drf-pagination]: {% link references/drf.md %}#pagination
-[file-upload]: {% link references/drf.md %}#file-upload
+[be-file-upload]: {% link references/drf.md %}#file-upload
 [api-design]: {% link references/drf.md %}#rest-api-design
 [cors]: {% link references/http.md %}#cors
 [http-headers]: {% link references/http.md %}#headers

@@ -37,3 +37,16 @@ This is very much optional at this early stage of your learning but important to
 - [Video on the first normal form](https://youtu.be/K7vzLrGCV50)
 - [Video on the second normal form](https://youtu.be/A9sezRxNhWY)
 - [Video on the third normal form](https://youtu.be/GP_RcibUicQ)
+
+#### Databases and SQL
+
+Confidence working with the database is important for back end devs, so it's worth taking the time to really understand how they work.
+
+We don't need to write SQL when we are using an ORM, but it's still a skill that is very useful for back-end work.
+
+- [Full Stack Python: Databases](https://www.fullstackpython.com/databases.html)
+- [SQL Basics: Learn x in y minutes](https://learnxinyminutes.com/docs/sql/) This may be helpful to skim for familiarity with SQL when you see it. You do not need to write SQL because the Django ORM does it for you, and it does it well. Most developers _can_ drop into SQL if they need to work with the database directly (and they know how to look up the syntax they need!).
+- [Learn SQL on Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)
+- [SQL Basics Reference](https://hunter-ducharme.gitbook.io/sql-basics/)
+- [How SQL queries run](https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select/) The syntax for SQL queries can be confusing. It can help to understand the order of operations in which your query will run. This is a blog post from the fantastic Julia Evans breaking it down for you.
+    - [In tweet form for quick reference](https://twitter.com/b0rk/status/1179449535938076673)

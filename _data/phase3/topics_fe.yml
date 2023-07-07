@@ -1,35 +1,35 @@
 - title: The Modern JS Landscape
   tag: fe
   phase: 3
-  date: 2023-06-05
+  date: 
   page: phase3-fe/modern-js.md
   post_today: true
   project_name: react_beginner_tutorial
-  published: true
+  published: false
 - title: Hello React World
   tag: fe
   phase: 3
-  date: 2023-06-06
+  date: 
   page: phase3-fe/intro-react.md
   project_name: react_freeshelf
   code_demo:
-  published: true
+  published: false
 - title: Components, Props, and State
   tag: fe
   phase: 3
-  date: 2023-06-08
+  date: 
   page: phase3-fe/props-and-state.md
   project_name: react_slides
   code_demo: https://github.com/Momentum-Team-18/example-react-devs
-  published: true
+  published: false
 - title: Fetching Data with APIs
   tag: fe
   phase: 3
-  date: 2023-06-12
+  date: 
   page: phase3-fe/ajax-and-apis.md
   project_name: react_trivia
   code_demo: https://github.com/Momentum-Team-18/example-react-devs
-  published: true
+  published: false
 - title: Multiple Components and Conditional Rendering
   tag: fe
   phase: 3
@@ -37,7 +37,7 @@
   page: phase3-fe/multiple-components.md
   project_name: react_trivia
   code_demo: https://github.com/Momentum-Team-18/example-react-devs
-  published: true
+  published: false
 - title: Deploying a React App
   tag: fe
   phase: 3
@@ -45,54 +45,54 @@
   page: phase3-fe/data-and-deployment.md
   project_name: react_job_search
   code_demo: https://github.com/Momentum-Team-18/example-react-devs
-  published: true
+  published: false
 - title: Authentication in React
   tag: fe
   phase: 3
-  date: 2023-06-20
+  date: 
   page: phase3-fe/auth-in-react.md
   project_name: collaborative_project
   code_demo: https://github.com/Momentum-Team-18/example-react-library
-  published: true
+  published: false
   post_today: true
 - title: Forms in React
   tag: fe
   phase: 3
-  date: 2023-06-21
+  date: 
   page: phase3-fe/react-forms.md
   project_name: collaborative_project
   code_demo: https://github.com/Momentum-Team-18/example-react-library
-  published: true
+  published: false
 - title: URL Routing in React
   tag: fe
   phase: 3
-  date: 2023-06-22
+  date: 
   page: phase3-fe/react-router.md
   project_name:
   code_demo: https://github.com/Momentum-Team-18/example-react-library
-  published: true
+  published: false
 - title: Routing with Auth in React
   tag: fe
   phase: 3
-  date: 2023-06-26
+  date: 
   page: phase3-fe/routing-with-auth.md
   project_name:
   code_demo: https://github.com/Momentum-Team-18/example-react-library
-  published: true
+  published: false
   post_today: true
 - title: Search in React
   tag: fe
   phase: 3
-  date: 2023-06-27
+  date: 
   page: phase3-fe/search.md
   project_name:
   code_demo: https://github.com/Momentum-Team-18/example-react-library
-  published: true
+  published: false
 - title: Uploading Files
   tag: fe
   phase: 3
-  date: 2023-06-28
+  date: 
   page: phase3-fe/file-upload.md
   project_name:
   code_demo: https://github.com/Momentum-Team-18/example-react-library
-  published: true
+  published: false

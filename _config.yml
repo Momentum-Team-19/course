@@ -29,13 +29,13 @@ exclude:
 enable_copy_code_button: true
 
 # ***** Team-specific settings  ***** EDIT THESE WHEN YOU CLONE A NEW REPO
-title: Momentum Team 18 Course Site
-team_name: 'Team 18'
-url: 'https://momentum-team-18.github.io'
-team_github_org: &github_org 'https://github.com/momentum-team-18'
-team_notes_repo: 'https://github.com/momentum-team-18/notes'
-zoom_link_be: 'https://us02web.zoom.us/j/89451654454'
-zoom_link_fe: 'https://us02web.zoom.us/j/81070622688'
+title: Momentum Team 19 Course Site
+team_name: 'Team 19'
+url: 'https://momentum-team-19.github.io'
+team_github_org: &github_org 'https://github.com/momentum-team-19'
+team_notes_repo: 'https://github.com/momentum-team-19/notes'
+zoom_link_be: 
+zoom_link_fe: 
 zoom_link_coworking: 'https://us02web.zoom.us/j/705824048'
 
 # content settings
@@ -51,7 +51,7 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  'Team 18 on GitHub':
+  'Team 19 on GitHub':
     - *github_org
 aux_links_new_tab: true
 back_to_top: true

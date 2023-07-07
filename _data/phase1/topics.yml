@@ -1,78 +1,78 @@
 - title: Git and the Command Line
   phase: 1
-  date: 2023-04-10
+  date: 
   project_name: git_it
   code_demo:
-  published: true
+  published: false
   page: phase1/git-and-cli.md
   post_today: true
 - title: HTML
   phase: 1
-  date: 2023-04-11
+  date: 
   page: phase1/html.md
   project_name: html_dog_adoption
   code_demo: html_dog_adoption
-  published: true
+  published: false
 - title: CSS Basics
   phase: 1
-  date: 2023-04-12
+  date: 
   page: phase1/css-basics.md
   project_name: css_dog_adoption
   code_demo: css_basics
-  published: true
+  published: false
 - title: CSS Layout
   phase: 1
-  date: 2023-04-13
+  date: 
   page: phase1/css-layout.md
   project_name: css_dog_adoption
   code_demo: css-flexbox
-  published: true
+  published: false
 - title: JavaScript Basics
   phase: 1
-  date: 2023-04-17
+  date: 
   project_name: js_calculator
   page: phase1/js-basics.md
   code_demo: js-basics
-  published: true
+  published: false
 - title: JavaScript Loops & Functions
   phase: 1
-  date: 2023-04-18
+  date: 
   page: phase1/js-loops-functions.md
   project_name: js_calculator_2
   code_demo: js-basics
-  published: true
+  published: false
 - title: JavaScript Arrays
   phase: 1
-  date: 2023-04-19
+  date: 
   page: phase1/js-arrays.md
   project_name: js_calculator
   code_demo: js-basics
-  published: true
+  published: false
 - title: JS & the DOM
   phase: 1
-  date: 2023-04-20
+  date: 
   page: phase1/js-dom.md
   project_name: js_calculator
   code_demo: js-dom
-  published: true
+  published: false
 - title: JavaScript Objects
   phase: 1
-  date: 2023-04-24
+  date: 
   page: phase1/js-objects.md
   project_name:
   code_demo: js-objects
-  published: true
+  published: false
 - title: AJAX & APIs
   phase: 1
-  date: 2023-04-26
+  date: 
   page: phase1/js-ajax.md
   project_name:
   code_demo: ajax
-  published: true
+  published: false
 - title: JS and Forms
   phase: 1
-  date: 2023-05-01
+  date: 
   page: phase1/js-forms.md
   project_name: ajax_notes
   code_demo: js-forms
-  published: true
+  published: false

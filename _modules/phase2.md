@@ -1,7 +1,7 @@
 ---
 title: Phase 2
 phase: 2
-published: true
+published: false
 ---
 
 {% assign topics = site.data.phase2.topics | reverse | where: "published", "true" %}

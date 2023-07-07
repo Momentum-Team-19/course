@@ -1,37 +1,32 @@
 git_it:
-  url: https://github.com/jlord/git-it-electron
-  due_date: 2023-04-11
+  url: 
+  due_date: 
 html_dog_adoption:
-  project_template: https://github.com/momentum-projects/html-dog-adoption
-  url: https://classroom.github.com/a/rSuh4p4h
-  due_date: 2023-04-12
+  project_template: 
+  url: 
+  due_date: 
 css_dog_adoption:
-  project_template: https://github.com/momentum-projects/css-dog-adoption
-  url: https://classroom.github.com/a/ef1y0XKM
-  due_date: 2023-04-17
+  project_template: 
+  url: 
+  due_date: 
 js_freecodecamp:
   url: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript
   due_date:
   due_date2:
-js_freecodecamp_espanol:
-  url: https://www.freecodecamp.org/espanol/learn/javascript-algorithms-and-data-structures/#basic-javascript
 js_calculator:
-  url: https://classroom.github.com/a/uuql1a5T
-  due_date: 2023-04-24
-js_calculator_2:
-  url:
-  due_date:
+  url: 
+  due_date: 
 js_customers:
-  url: https://classroom.github.com/a/kw1aDu96
-  due_date: 2023-04-27
+  url: 
+  due_date: 
 ajax_github_profile:
-  url: https://classroom.github.com/a/ZLqyCyEy
-  due_date: 2023-05-01
+  url: 
+  due_date: 
 ajax_currency_converter:
-  url: https://classroom.github.com/a/9W2ZAbSb
-  due_date: 2023-05-01
+  url: 
+  due_date: 
 ajax_notes:
-  url: https://classroom.github.com/a/ZQA7exHj
-  due_date: 2023-05-04
+  url: 
+  due_date: 
 end_of_phase:
-  due_date: 2023-05-04
+  due_date: 

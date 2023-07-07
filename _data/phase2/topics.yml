@@ -1,25 +1,25 @@
 - title: Intro to Python
   phase: 2
-  date: 2023-05-08
+  date:
   page: phase2/intro-to-python.md
   project_name:
   code_demo: intro_python
   post_today: true
-  published: true
+  published: false
 - title: Python Conditionals and Loops
   phase: 2
-  date: 2023-05-09
+  date: 
   page: phase2/py-conditionals-and-loops.md
   project_name:
   code_demo: intro_python
-  published: true
+  published: false
 - title: Python Lists and Dictionaries
   phase: 2
-  date: 2023-05-10
+  date: 
   page: phase2/py-lists-and-dicts.md
   project_name: mystery_word
   code_demo: intro_python
-  published: true
+  published: false
 - title: Python List Comprehensions
   phase: 2
   date:
@@ -29,29 +29,29 @@
   published: false
 - title: Object-Oriented Programming in Python
   phase: 2
-  date: 2023-05-15
+  date: 
   page: phase2/py-oop.md
   project_name:
   code_demo: object_oriented
-  published: true
+  published: false
 - title: Getting Used to Working in Django
   phase: 2
-  date: 2023-05-18
+  date: 
   page: phase2/py-intro-django.md
   project_name: djangogirls_tutorial
   code_demo: django_games
-  published: true
+  published: false
 - title: Django CRUD
   phase: 2
-  date: 2023-05-22
+  date: 
   page: phase2/py-django-crud.md
   project_name: django_music
   code_demo: django_games
-  published: true
+  published: false
 - title: Django Wrap Up 🎬
   phase: 2
-  date: 2023-05-30
+  date: 
   page: phase2/py-django-wrap-up.md
   project_name:
   code_demo: django_courses
-  published: true
+  published: false

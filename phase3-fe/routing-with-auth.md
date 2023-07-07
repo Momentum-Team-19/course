@@ -5,7 +5,7 @@ topic: JavaScript
 category: phase3-fe
 parent: Phase 3 Front End
 nav_order: 10
-published: true
+published: false
 ---
 
 ## 🎯 Objectives

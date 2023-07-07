@@ -1,6 +1,6 @@
 google_python_intro:
   url: https://developers.google.com/edu/python/exercises/basic
-  due_date: 2023-05-15
+  due_date: 
 word_frequency:
   project_template: https://github.com/momentum-projects/py-word-frequency
   url:

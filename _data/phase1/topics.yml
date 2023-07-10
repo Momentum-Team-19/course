@@ -3,7 +3,7 @@
   date: 
   project_name: git_it
   code_demo:
-  published: false
+  published: true
   page: phase1/git-and-cli.md
   post_today: true
 - title: HTML

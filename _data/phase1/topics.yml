@@ -1,6 +1,6 @@
 - title: Git and the Command Line
   phase: 1
-  date: 
+  date: 2023-07-10
   project_name: git_it
   code_demo:
   published: true
@@ -8,11 +8,11 @@
   post_today: true
 - title: HTML
   phase: 1
-  date: 
+  date: 2023-07-11
   page: phase1/html.md
   project_name: html_dog_adoption
   code_demo: html_dog_adoption
-  published: false
+  published: true
 - title: CSS Basics
   phase: 1
   date: 

@@ -29,7 +29,7 @@
   published: true
 - title: JavaScript Basics
   phase: 1
-  date: 
+  date: 2023-07-17
   project_name: js_freecodecamp
   page: phase1/js-basics.md
   code_demo: js-basics

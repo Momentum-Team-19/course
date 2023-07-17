@@ -35,7 +35,7 @@ js-forms:
 ajax:
   url: 
 js-basics:
-  url: 
+  url: https://github.com/Momentum-Team-19/example-js-basics
 js-dom:
   url: https://codepen.io/rlconley/pen/NWObgrR
 js-objects:

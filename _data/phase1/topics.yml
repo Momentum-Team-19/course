@@ -38,9 +38,9 @@
   phase: 1
   date: 
   page: phase1/js-loops-functions.md
-  project_name: js_calculator_2
+  project_name: js_freecodecamp
   code_demo: js-basics
-  published: false
+  published: true
 - title: JavaScript Arrays
   phase: 1
   date: 

@@ -50,11 +50,11 @@
   published: true
 - title: JS & the DOM
   phase: 1
-  date: 
+  date: 2023-07-20
   page: phase1/js-dom.md
   project_name: js_calculator
   code_demo: js-dom
-  published: false
+  published: true
 - title: JavaScript Objects
   phase: 1
   date: 

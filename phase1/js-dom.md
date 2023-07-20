@@ -27,5 +27,4 @@ Use the [notes]({{ site.team_notes_repo }}/blob/main/js-dom.md) and the [example
 
 ## 🔖 References
 
-- [Working with the DOM in JS][js-dom]
-- [Events in JS][js-events]
+- [Working with the DOM in JS]({{ site.team_notes_repo }}/blob/main/js-dom.md)

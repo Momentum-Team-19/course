@@ -59,7 +59,7 @@
   phase: 1
   date: 2023-07-24
   page: phase1/js-objects.md
-  project_name:
+  project_name: js_customers
   code_demo: js-objects
   published: true
 - title: AJAX & APIs

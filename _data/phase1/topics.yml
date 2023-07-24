@@ -61,7 +61,7 @@
   page: phase1/js-objects.md
   project_name:
   code_demo: js-objects
-  published: false
+  published: true
 - title: AJAX & APIs
   phase: 1
   date: 

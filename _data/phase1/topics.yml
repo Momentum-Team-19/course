@@ -57,7 +57,7 @@
   published: true
 - title: JavaScript Objects
   phase: 1
-  date: 
+  date: 2023-07-24
   page: phase1/js-objects.md
   project_name:
   code_demo: js-objects

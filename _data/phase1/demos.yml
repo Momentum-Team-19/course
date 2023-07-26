@@ -33,7 +33,7 @@ js_working_calculator:
 js-forms:
   url: 
 ajax:
-  url: 
+  url: https://github.com/Momentum-Team-19/example-pokeAPI.git
 js-basics:
   url: https://github.com/Momentum-Team-19/example-js-basics
 js-dom:

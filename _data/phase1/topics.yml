@@ -66,7 +66,7 @@
   phase: 1
   date: 2023-07-26
   page: phase1/js-ajax.md
-  project_name:
+  project_name: ajax_github_profile
   code_demo: ajax
   published: true
 - title: JS and Forms

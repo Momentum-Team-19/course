@@ -69,10 +69,10 @@
   project_name: ajax_github_profile
   code_demo: ajax
   published: true
-- title: JS and Forms
+- title: Last Week of the Phase
   phase: 1
-  date: 
+  date: 2023-07-31
   page: phase1/js-forms.md
   project_name: ajax_notes
   code_demo: js-forms
-  published: false
+  published: true

@@ -28,5 +28,6 @@ ajax_currency_converter:
 ajax_notes:
   url: 
   due_date: 
+
 end_of_phase:
   due_date: 

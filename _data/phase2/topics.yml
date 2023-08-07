@@ -1,11 +1,11 @@
 - title: Intro to Python
   phase: 2
-  date:
+  date: 2023-08-07
   page: phase2/intro-to-python.md
   project_name:
   code_demo: intro_python
   post_today: true
-  published: false
+  published: true
 - title: Python Conditionals and Loops
   phase: 2
   date: 

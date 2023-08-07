@@ -6,7 +6,7 @@ topic: Python
 category: phase2
 parent: Phase 2 Back End
 nav_order: 4
-published: true
+published: false
 ---
 
 Today, we'll take a brief survey of classes and objects in Python to get us ready to take on Django.

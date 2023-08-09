@@ -23,5 +23,5 @@ Continue Google exercises
 
 ## 🔖 References
 
-- [Essential Python Resources][essential-python]
-- [RealPython: Basic Python Tutorials][realpython-tutorials]
+- [FCC Python Conditionals](https://www.freecodecamp.org/news/how-to-use-conditional-statements-if-else-elif-in-python/)
+- [FCC Python Loops (for and while)](https://www.datacamp.com/tutorial/loops-python-tutorial)

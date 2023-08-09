@@ -21,7 +21,5 @@ Begin the project [Mystery Word]]({{ site.data.phase2.projects.mystery_word.url 
 
 ## 🔖 References
 
-- [Python Lists and List Comprehensions][lists]
-- [Sorting & Lambdas][sorting] 
-- [Dictionaries][dicts]
+- [Real Python Sorting Dictionaries](https://realpython.com/sort-python-dictionary/)
 - [Notes: Lists, Dicts, and Tuples]({{ site.team_notes_repo }}/blob/main/py-collections.md)

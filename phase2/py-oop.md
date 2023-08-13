@@ -6,7 +6,7 @@ topic: Python
 category: phase2
 parent: Phase 2 Back End
 nav_order: 4
-published: false
+published: true
 ---
 
 Today, we'll take a brief survey of classes and objects in Python to get us ready to take on Django.
@@ -18,23 +18,11 @@ Today, we'll take a brief survey of classes and objects in Python to get us read
   - Attributes
   - Instance Methods
   - "Magic" Methods
-
-## 🔎 Word Frency/Optional  Project Retrospective
-
-Please indicate your answers on this [form](https://forms.gle/zNseNiaQbtHwTxcg6).
-
-- Something I learned by doing this project is...
-- Something I want to understand better or know more about is...
-- In this project, I was happy that I was able to...
-
-## 🐍 Code Break
-
-[Creating classes and objects]({% link code_exercises/py-oo.md %})
-
+  
 ## 🎯 Project
 
 This week, we will be applying principles of Object Oriented Programming in Python to build a Blackjack card game.
-[OO Blackjack in Python](https://classroom.github.com/a/607wrFwh)
+[OOP Blackjack in Python](https://classroom.github.com/a/BjY-kNzW)
 
 ## 🔖 Resources
 
@@ -51,7 +39,6 @@ This week, we will be applying principles of Object Oriented Programming in Pyth
 - [Python Docs: Clases](https://docs.python.org/es/3/tutorial/classes.html)
 - [StackOverflow: How do I design a class in Python?](https://stackoverflow.com/questions/4203163/how-do-i-design-a-class-in-python/4203836#4203836)
 - [Special Methods (aka magic methods) in the Python Docs](https://docs.python.org/3/reference/datamodel.html#special-method-names)
-- [Nombres Especiales de Método](https://docs.python.org/es/3/reference/datamodel.html#special-method-names)
 - [A Guide to Python's Magic Methods](https://rszalski.github.io/magicmethods/) _This is a great reference, but watch out! It was written for Python 2, so a few things may be different in Python 3._
 
 ### Useful resources for debugging
@@ -62,5 +49,5 @@ This week, we will be applying principles of Object Oriented Programming in Pyth
 
 ## 🦉 Code & Notes
 
-- [Object Oriented Programming in Python](https://github.com/Momentum-Team-18/notes/blob/main/py-oo-programming.md)
-- [Repl from class: Word Frequency OO](https://replit.com/@rlconley/Classes#main.py)
+- [Object Oriented Programming in Python](https://github.com/Momentum-Team-19/notes/blob/main/py-oo-programming.md)
+- [Repl from class: Word Frequency OO]()

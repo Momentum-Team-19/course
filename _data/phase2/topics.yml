@@ -29,11 +29,11 @@
   published: false
 - title: Object-Oriented Programming in Python
   phase: 2
-  date: 
+  date: 2023-08-14
   page: phase2/py-oop.md
-  project_name:
+  project_name: python_blackjack
   code_demo: object_oriented
-  published: false
+  published: true
 - title: Getting Used to Working in Django
   phase: 2
   date: 

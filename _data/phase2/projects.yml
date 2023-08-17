@@ -21,8 +21,8 @@ end_of_phase:
   due_date: 2023-06-02
 djangogirls_tutorial: 
   project_template: https://github.com/momentum-assignments/django-girls-tutorial
-  url: https://github.com/Momentum-Team-18/djangogirls-tutorial.git
-  due_date:
+  url: https://classroom.github.com/a/R0-zm2ia
+  due_date: 2023-08-17
 django-duplex:
   project_template: https://github.com/momentum-assignments/django--duplex
   url: https://classroom.github.com/a/qtFxW2b-

@@ -15,8 +15,8 @@ python_blackjack:
   due_date:
 django_music:
   project_template: https://github.com/momentum-assignments/django--music
-  url: https://classroom.github.com/a/YXgvEBTc
-  due_date: 2023-05-25
+  url: https://classroom.github.com/a/fYo2gSei
+  due_date: 2023-08-21
 end_of_phase:
   due_date: 2023-06-02
 djangogirls_tutorial: 

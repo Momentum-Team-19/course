@@ -11,7 +11,7 @@ published: true
 ## 🎯 Objectives
 
 - Preview of Collaboration for Phase 3
-- End-of-phase technical presentation videos - due Friday, June 2 at noon.
+- End-of-phase technical presentation videos - Friday, Sept 1, 11am.
 - Videos of Django Music review
   - [Wed afternoon M2M](https://us02web.zoom.us/rec/share/7pNVQecU8Y2y-SNkOdgDSXqrRHTB1O3mxLkf1IsjIZPTtTsUcCE08JKJo1_gtCVc.8VkiqRjq0gN-NuNQ)
       Access Passcode: Q?&x@h72
@@ -29,11 +29,9 @@ Thursday afternoon we will not have class. You should use that time to finish wo
 - [Git Collaboration][git-collab]
   - This is how you will be doing collaboration with teammates in phase 3.
 
-## 🤩 End-of-Phase Presentation videos due {{ site.data.phase2.projects.end_of_phase.due_date | date: "%A, %B %e" }}
+## 🤩 End-of-Phase Presentation presentations {{ site.data.phase2.projects.end_of_phase.due_date | date: "%A, %B %e" }} 11 am.
 
-Each person has 4-5 min to talk about one of the following topics using examples from your own code. Please record this presentation as
-you did in Phase 1 and submit using this [form](https://forms.gle/w2sStXpX5rUw9qb76) when done.
-
+Each person has 4-5 min to talk about one of the following topics using examples from your own code.
 ### Topics: Pick one
 
 For all topics, **the code should be from Django Music or Django Duplex**. If you have a different project that you want to present, or want to present on a topic not listed, please talk to me to get approval.

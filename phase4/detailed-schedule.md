@@ -1,6 +1,6 @@
 ---
 layout: topic
-title: Detailed Schedule
+title: Final Project & Presentation Schedule
 topic: Agile
 category: phase4
 parent: Phase 4

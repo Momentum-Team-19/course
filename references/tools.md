@@ -55,6 +55,7 @@ The `.md` extension indicates a Markdown file. The pages for this site and every
 
 - [How to take useful notes as a developer](https://momentumlearn.notion.site/How-to-take-useful-notes-as-a-developer-55d31e3cc9af4b789bebf1c1e3cd8142)
 - [How Note Taking Makes Me a Better Developer](https://spin.atomicobject.com/2019/03/15/note-taking-developers/)
+- [Julia Evans Brag Documents: Use Your Work Notes to Advocate for Yourself on the Job](https://jvns.ca/blog/brag-documents/)
 
 ### Tools for Taking Notes
 

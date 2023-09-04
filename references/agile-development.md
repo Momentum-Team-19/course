@@ -17,13 +17,14 @@ layout: resource_list
 
 - 💫 [Common Time Management Problems & Solutions](https://dev.to/actitime/20-most-common-time-management-problems-solutions-3abb)
 - [The Pomodoro Technique for Time Management & Productivity](https://todoist.com/productivity-methods/pomodoro-technique)
-    - [Zapier's list of Pomodoro Apps](https://zapier.com/blog/best-pomodoro-apps/)
 - [Time Blocking](https://todoist.com/productivity-methods/time-blocking)
 
 ### Productivity Timers ⏲️
 
 - [Cuckoo](https://cuckoo.team/) _The one we use in our meetings_
+- [Tomito](https://tomito.app/) _(Free) Pomodoro timer from the App Store_
 - [Pomofocus Pomodoro Timer](https://pomofocus.io/)
+- [Zapier's list of Pomodoro Apps](https://zapier.com/blog/best-pomodoro-apps/)
 - [Marinara Pomodoro Timer Chrome Extension](https://chrome.google.com/webstore/detail/marinara-pomodoro%C2%AE-assist/lojgmehidjdhhbmpjfamhpkpodfcodef?hl=en)
 
 ## Idea Generation
@@ -55,7 +56,7 @@ layout: resource_list
 - [Jamie Howard, Huddle on Agile, Aug 2022](https://drive.google.com/file/d/1g4J7ncUspw2qh6D2yW0NsG5tISYZCPfM/view?usp=share_link)
 - [Beginner's Guide to Scrum and Agile](https://blog.trello.com/beginners-guide-scrum-and-agile-project-management)
 - [12 principles from the Agile Manifesto](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/)
-- [The Power in Agile, a talk by Sarah Mei](https://www.youtube.com/watch?v=YL-6RCTywbc&feature=youtu.be) _A critical look at the power dynamics implicit in Agile methods._
+
 - [Agile 101: Glossary](https://www.agilealliance.org/agile101/agile-glossary/)
 - [Scrum Guide](https://scrumguides.org/scrum-guide.html)
 
@@ -65,6 +66,8 @@ layout: resource_list
 - [Making sense of MVP](https://www.youtube.com/watch?v=0P7nCmln7PM) _Video that explores the skateboard diagram in detail_
 - [Acceptance Criteria](https://www.productplan.com/glossary/acceptance-criteria/)
 - [What is a definition of done and why do you need it?](https://www.allstacks.com/blog/what-is-a-definition-of-done-and-why-you-need-one) _Written by Jamie Howard, a Durham, NC tech leader who has hired our grads._
+- [The Power in Agile, a talk by Sarah Mei](https://www.youtube.com/watch?v=YL-6RCTywbc&feature=youtu.be) _A critical look at the power dynamics implicit in Agile methods._
+- [Agile at Scale: How Spotify does it](https://www.atlassian.com/agile/agile-at-scale/spotify)
 
 ## User Personas
 

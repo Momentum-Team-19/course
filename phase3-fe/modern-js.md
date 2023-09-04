@@ -3,9 +3,9 @@ layout: topic
 title: Modern JavaScript
 topic: JavaScript
 category: phase3-fe
-parent: Phase 3 Front End
+parent: Phase 3 Advanced Front End
 nav_order: 1
-published: false
+published: true
 ---
 
 
@@ -18,13 +18,22 @@ published: false
 
 ## ✅ TODO
 
-1. Review the code in [JavaScript You Need to Know for React]({{ site.team_notes_repo}}/blob/main/js-for-react.md). You'll need to be able to read and use the JS in these notes to work with React effectively. **It would be valuable practice to type out the examples and run them yourself.**
+There are sections below with more info for each of the things this list. You are strongly encouraged to work together for all of these tasks.
 
-2. Complete **at least three exercises** from the list below on [Exercism.io JavaScript Track](https://exercism.org/tracks/javascript). You're encouraged to work together.
-
+1. Read and run the code at [JavaScript You Need to Know for React]({{ site.team_notes_repo}}/blob/main/js-for-react.md)
+2. Complete **at least three exercises** from the [Exercism.io JavaScript Track](https://exercism.org/tracks/javascript). 
 3. Do today's project: the [Complete Beginner React Tutorial](https://welearncode.com/beginners-guide-react-2020/)
 
-## 💫 PRO TIPS for Exercism
+## 1. ⚛️ JavaScript You Need for React 
+
+Review the code in [JavaScript You Need to Know for React]({{ site.team_notes_repo}}/blob/main/js-for-react.md). You'll need to be able to read and use the code in these notes to work with React effectively. **It would be valuable practice to type out the examples and run them yourself.**
+
+You'll eventually need to be familiar with all of what is documented in these notes, but today pay particular attention to:
+     - [**Arrow Functions**]({{ site.team_notes_repo}}/blob/main/js-for-react.md#arrow-functions)
+     - [**Template Literals**]({{ site.team_notes_repo}}/blob/main/js-for-react.md#template-literals)
+     - [**Module Import/Export**]({{ site.team_notes_repo}}/blob/main/js-for-react.md#javascript-modules-and-importexport)
+
+## 2. 💫 Exercism PRO TIPS
 
 Exercises to choose from:
 
@@ -45,15 +54,15 @@ When you run the tests, only focus on ONE test at a time. Write code that will g
 
 If you can do more than three, great! More practice is better.
 
-## 🏗️ Project: Meet React
+## 3. 🏗️ Project: Meet React
 
-After you've warmed up with some Exercism challenges, do this short tutorial to take a quick introductory tour of React.
+After you've warmed up with some Exercism challenges, do this short tutorial to take a quick introductory tour of React. You should be able to finish this in under one hour. The goal of this project is to become familiar with some basic structure and concepts of React.
 
 [Ali Spittel's Beginner's Guide to React Tutorial](https://welearncode.com/beginners-guide-react-2020/) is a really friendly tutorial for total beginners that will introduce you to the basic concepts that we will be learning about in this phase.
 
 Instructions in that tutorial are provided both in writing and in the video. Use whatever you prefer. In either case, you will code along with the instructions.
 
-The link below takes you to an empty repo on GitHub that you can push your tutorial code to.
+**Use this link to generate an empty repo on GitHub that you can push your tutorial code to:**
 
 [React Beginner Tutorial Project Repo]({{ site.data.phase3.projects.react_beginner_tutorial.url }})
 
@@ -62,7 +71,7 @@ The link below takes you to an empty repo on GitHub that you can push your tutor
 _These are required readings, videos, and/or podcasts. Read, watch, or listen, and **take notes**._
 
 - ⭐ 📖 [Modern JavaScript Explained for Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70) -> This is essential for context.
-- 📖 [State of JS 2022 Survey Results](https://2022.stateofjs.com/en-US/) Skim for an overview of current trends in the JS ecosystem.
+- 📖 [State of JS Yearly Survey Results](https://stateofjs.com/en-US) Skim for an overview of current trends in the JS ecosystem.
 - 📺 [ES6 tutorial for beginners](https://www.youtube.com/watch?v=WZQc7RUAg18)
 - 📺 [Modern JavaScript for Django Developers](https://2021.djangocon.us/talks/modern-javascript-for-django-developers/)
 - 📖 [Modern JavaScript for Django Developers](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/) - This is the blog post version of the above talk. **Read the first two parts only**:

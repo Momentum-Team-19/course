@@ -7,11 +7,11 @@ published: true
 
 ## How the Advanced Phase Works
 
-During this phase, there are separate meetings and topics for front-end and back-end development.
+During this phase, we'll focus on front-end development using the React.js library, meeting three times a week in 2-hour sessions.
 
 The rest of the day outside of meeting time is project time, so we'll expect to see you online and working. Please let us know if you will be unavailable at any time during work hours.
 
-During project time, please **read/watch/listen to the required readings, videos, and podcasts** and **work on your projects**. Come to meetings prepared to ask questions.
+During project time, please **read/watch/listen to the required readings, videos, and podcasts** and **work on your projects**. Come to meetings prepared to show your progress on projects and ask specific questions.
 
 You are welcome to use your team's Zoom meeting and/or [the co-working Zoom]({{ site.zoom_coworking_link }}) during project work hours.
 
@@ -25,7 +25,7 @@ You can't learn how to code by studying or memorizing. The only way to learn is 
 
 For an insightful take on being comfortable with what you don't know, read this great blog post by one of the most well-respected and influential JavaScript developers out there right now: **[Dan Abramov, Things I Don't Know](https://overreacted.io/things-i-dont-know-as-of-2018/)**
 
-## ✅ TODO for Everyone This Week
+## ✅ TODO This Week
 
 - Read [this overview of what Web Applications are](https://www.robinwieruch.de/web-applications/) for essential context, through "Frontend and Backend". You don't have to read from "Microservices" on, although go ahead if you want to; it is not relevant to what we're doing in Phase 3 but it's good stuff to know about.
     - Answer [these questions about Web Applications to check your understanding](https://forms.gle/k5yJ3aGWLzHkvXqP9)

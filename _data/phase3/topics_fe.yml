@@ -13,7 +13,7 @@
   page: phase3-fe/intro-react.md
   project_name: react_freeshelf
   code_demo:
-  published: false
+  published: true
 - title: Components, Props, and State
   tag: fe
   phase: 3

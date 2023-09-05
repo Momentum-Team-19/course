@@ -5,25 +5,26 @@ topic: JavaScript
 category: phase3-fe
 parent: Phase 3 Advanced Front End
 nav_order: 2
-published: false
+published: true
 ---
 
 ## 🎯 Objectives
 
-- Exercism review
-- Intro to React
-    - How does React work?
-    - What does React code look like?
+- Review Exercism code challenges
+- Learn how React works
+- Understand React basic concepts of components, props, and state
+- Start a React app from scratch using Vite
+- Learn how to use `npm` to install packages and run scripts
 
 ## 🏗️ Project: Freeshelf
 
-Today, you'll start on your first React app without a tutorial. This is **due on {{ site.data.phase3.projects.react_freeshelf.due_date | date: "%A, %B %e" }}**.
+Today, you'll start on your first React app without a tutorial. Starter code is provided, so you do not have to generate any files. Everything you need to start is already in the repo, and the README includes instructions on how to install dependencies and run the server. 
 
-[React Freeshelf]({{ site.data.phase3.projects.react_freeshelf.url }})
+Expect this to be challenging. If you get the basic functionality working, try some spicy options 🌶️.
 
-Expect this to be challenging.
+👉 [React Freeshelf project repo]({{ site.data.phase3.projects.react_freeshelf.url }})
 
-🧰 Please be sure to install AND USE the [React Developer Tools for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en).
+This is **due on {{ site.data.phase3.projects.react_freeshelf.due_date | date: "%A, %B %e" }}**.
 
 ## 🛠️ Setup
 
@@ -31,6 +32,7 @@ Make sure you have the following set up in your local environment.
 
 - [Node & `npm`][npm]
 - [ESLint for VS Code][eslint]
+- [Prettier for VS Code][prettier]
 - [React Developer Tools for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 
 ## 📖 Read | 📺 Watch | 🎧 Listen

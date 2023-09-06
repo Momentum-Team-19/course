@@ -5,22 +5,28 @@ topic: JavaScript
 category: phase3-fe
 parent: Phase 3 Advanced Front End
 nav_order: 3
-published: false
+published: true
 ---
 
 ## 🎯 Objectives
 
-- Review Freeshelf
-- Components and JSX
+- Review Freeshelf project
+- Understand how to create components and work with JSX
 - Handling data in React with props and state
 
 ## 🏗️ Project: Studio Ghibli Slideshow
 
 Today, you'll start on your first React app from scratch. This is **due on {{ site.data.phase3.projects.react_slides.due_date | date: "%A, %B %e" }}**.
 
-[React Slideshow]({{ site.data.phase3.projects.react_slides.url }})
+[React Slideshow project repo]({{ site.data.phase3.projects.react_slides.url }})
 
 🧰 Please be sure that you have installed AND remember to use the [React Developer Tools for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en).
+
+### 🟪 🟨 🟩 Bonus Project: React Memory Game
+
+This is optional. If you have extra time and want another challenge, build a [concentration-style memory game](https://en.wikipedia.org/wiki/Concentration_(card_game)) using React.
+
+[React Memory Game project repo]({{ site.data.phase3.projects.react_memory_game.url }})
 
 ## 📖 Read | 📺 Watch | 🎧 Listen
 

@@ -5,15 +5,15 @@ topic: JavaScript
 category: phase3-fe
 parent: Phase 3 Advanced Front End
 nav_order: 4
-published: false
+published: true
 ---
 
 ## 🎯 Objectives
 
-- More about using state in React
-- Conditional rendering
-- How to fetch data in React using [Axios](https://axios-http.com/)
-- The `useEffect` hook
+- Develop confidence using state in React
+- Render parts of the UI conditionally based on state or props
+- Fetch data in React using [Axios](https://axios-http.com/)
+- Learn how to use the `useEffect` hook for fetching and updating data
 
 ## 🏗️ Project: React Trivia
 

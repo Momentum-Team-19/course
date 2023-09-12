@@ -5,7 +5,7 @@ topic: JavaScript
 category: phase3-fe
 parent: Phase 3 Advanced Front End
 nav_order: 5
-published: false
+published: true
 ---
 
 ## 🎯 Objectives
@@ -17,23 +17,17 @@ published: false
 
 Be methodical in your approach and don't try to do too much at once. It can help to talk with other developers to break the project down into steps you can take.
 
-Goals in the order you should tackle them:
+Once you have categories showing on the page, make your trivia categories selectable. When a user clicks on a category to select it, you should make a request to get at least 10 questions for that category. The API will let you specify how many questions you want to get back, and it will let you specify the type (e.g., multiple choice).
 
-1. Get a list of categories from the Trivia API showing up on the page.
-2. Make your trivia categories selectable. When a user clicks on a category to select it, you should make a request to get at least 10 questions for that category. The API will let you specify how many questions you want to get back and it will let you specify the type e.g., multiple choice).
-3. If you can get all the questions for the selected category, the next step is to show the questions. You will need to show one question at at a time with answer choices for that question.
-      - If this is too hard, just show one question to start with.
-      - Next, show the answer choices for that question (don't worry about the order at first; you can change that later).
-      - When you can show one question with its answer choices, then make it possible for the user to see the next question in the list of questions by clicking a button.
-4. Make it possible for the user to select their answer choice. You will need to know what answer they selected, and you will need to know the correct answer. They got the answer right if the answer they selected is the same as the correct answer -- so you'll need to compare those two values somehow.
-5. Keep track of questions answered correctly and tally them at the end (something like, "You got 6 out of 10 questions right!").
-6. Have a way for the quiz to end. There should be a way to go back to the list of categories to start another quiz.
+Once you have a successful request for the questions from the selected category, the next step is to show the questions in the UI. You will need to show one question at at a time with answer choices for that question.
 
-If you read a goal and don't know how to do it, break it down into smaller goals. You may find that you need to do this a few times to break tasks down into smaller and smaller bits. This is more than OK: it's a smart way to work, and [all developers do it](https://www.developerway.com/posts/prison-break-solving-life-as-a-developer).
+If this is too hard, just show one question to start with so you can see it on the page. Next, show the answer choices for that question (don't worry about the order at first; you can change that later). When you can show one question with its answer choices, then make it possible for the user to see the next question in the list of questions by clicking a button.
+
+**If you read a goal in the project README and don't know how to do it, break it down into smaller goals. You may find that you need to do this a few times to break tasks down into a manageable piece. Keep going until you reach something you can do or at least something you can think about.** This is more than OK: it's a smart way to work, and [all developers do it](https://www.developerway.com/posts/prison-break-solving-life-as-a-developer).
 
 ## 📖 Read | 📺 Watch | 🎧 Listen
 
-Re-visit anything from the past two days' reading/watching/listening that you didn't get to, and:
+Re-visit anything from previous reading/watching/listening sections that you didn't get to, and:
 
 - 📖 [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
 - 📖 [Lifting State Up](https://react.dev/learn/sharing-state-between-components#lifting-state-up-by-example)

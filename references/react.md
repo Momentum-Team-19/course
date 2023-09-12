@@ -66,15 +66,14 @@ layout: resource_list
 
 - [4 Techniques for Conditional Rendering in React](https://linguinecode.com/post/4-techniques-conditional-render-react-props-state)
 - [Conditional Rendering in React](https://www.robinwieruch.de/conditional-rendering-react)
-- [React Official Docs: React Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
+- [React Official Docs: React Conditional Rendering](https://react.dev/learn/conditional-rendering)
 - [5 Ways to Implement Conditional Rendering in React](https://blog.bitsrc.io/5-ways-to-implement-conditional-rendering-in-react-64730323b434)
 
 ## Events
 
-- [React Docs: Handling Events in React](https://reactjs.org/docs/handling-events.html)
+- [React Docs: Handling Events in React](https://react.dev/learn/responding-to-events)
 - [Handling onClick Events in React](https://blog.logrocket.com/a-guide-to-react-onclick-event-handlers-d411943b14dd/)
 - [Handing Events in React with examples for functional components](https://www.newline.co/@andreeamaco/how-to-use-react-onclick-events-in-class-and-functional-components--fb63a01e)
-- [Supported Events in React](https://reactjs.org/docs/events.html#supported-events)
 
 ## Making HTTP Requests in React
 
@@ -88,21 +87,22 @@ layout: resource_list
 
 ## useEffect
 
-- [Official React docs: Using the Effect Hook](https://reactjs.org/docs/hooks-effect.html)
+- [Official React docs: useEffect](https://react.dev/reference/react/useEffect)
 - [Ryan Florence tweet summarizing useEffect](https://twitter.com/ryanflorence/status/1125041041063665666)
 - [Dave Ceddia: How useEffect Works, with Examples](https://daveceddia.com/useeffect-hook-examples/)
 - [A Visual Guide to useEffect](https://alexsidorenko.com/blog/useeffect/)
 
 ## useRef
 
-- [Refs and the DOM](https://reactjs.org/docs/refs-and-the-dom.html) - class-based component examples
-- [useRef hook](https://reactjs.org/docs/hooks-reference.html#useref)
+- [useRef hook](https://react.dev/reference/react/useRef)
+- [Referencing values with Refs](https://react.dev/learn/referencing-values-with-refs)
+- [Manipulating the DOM with Refs](https://react.dev/learn/manipulating-the-dom-with-refs)
 
 ## Custom Hooks
 
 - [Custom hook recipes](https://usehooks.com/)
 - [More custom hooks](https://github.com/streamich/react-use)
-- [Official React docs on custom hooks](https://reactjs.org/docs/hooks-custom.html)
+- [Official React docs: Reusing Logic with Custom Hooks](https://react.dev/learn/reusing-logic-with-custom-hooks)
 
 ### Custom hooks for local storage
 
@@ -116,7 +116,6 @@ _See also [JS: Forms][js-forms] and [HTML: Forms][html-forms]_
 - [React docs: working with `<input>`](https://react.dev/reference/react-dom/components/input)
 - [React Mental Model: Working with Input](https://learnreact.design/posts/react-mental-model-html-input)
 - [Dave Ceddia: React Forms](https://daveceddia.com/react-forms/)
-- [React Official Docs: Uncontrolled components](https://reactjs.org/docs/uncontrolled-components.html)
 - [Controlled vs uncontrolled form inputs in React](https://goshakkk.name/controlled-vs-uncontrolled-inputs-react/) _This is a good summary of the two options for forms in React, but be aware that the code examples use the older class syntax instead of function components with hooks._
 - [Data Binding in React (Using different form fields and keeping values in sync with state)](https://www.joshwcomeau.com/react/data-binding/)
 

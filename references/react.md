@@ -140,6 +140,7 @@ _See also [JS: Forms][js-forms] and [HTML: Forms][html-forms]_
 
 - [Instructions for deploying a React app to Netlify](https://momentumlearn.notion.site/Deploying-a-React-app-to-Netlify-409f3e2a2ae44ccd857b3797ff0963f8)
 - [Netlify Docs](https://docs.netlify.com/site-deploys/create-deploys/)
+- [Vite on Netlify](https://docs.netlify.com/integrations/frameworks/vite/#app)
 
 ## The Ship-It Mindset
 

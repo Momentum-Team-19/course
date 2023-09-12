@@ -41,15 +41,15 @@
 - title: Deploying a React App
   tag: fe
   phase: 3
-  date: 2023-09-13
+  date: 2023-09-14
   page: phase3-fe/data-and-deployment.md
-  project_name: react_job_search
+  project_name: react_color_palettes
   code_demo: https://github.com/Momentum-Team-19/example-react-devs
-  published: false
+  published: true
 - title: Authentication in React
   tag: fe
   phase: 3
-  date:
+  date: 2023-09-18
   page: phase3-fe/auth-in-react.md
   project_name: collaborative_project
   code_demo: https://github.com/Momentum-Team-19/example-react-library

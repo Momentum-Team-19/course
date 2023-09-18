@@ -46,6 +46,15 @@
   project_name: react_color_palettes
   code_demo: https://github.com/Momentum-Team-19/example-react-devs
   published: true
+- title: Working as a Team to Ship Software
+  tag: fe
+  phase: 3
+  date: 2023-09-18
+  page: phase3-fe/teamwork.md
+  project_name: collaborative_project
+  code_demo: https://github.com/Momentum-Team-19/git-practice-repo
+  published: true
+  post_today: true
 - title: Authentication in React
   tag: fe
   phase: 3
@@ -54,7 +63,6 @@
   project_name: collaborative_project
   code_demo: https://github.com/Momentum-Team-19/example-react-library
   published: false
-  post_today: true
 - title: Forms in React
   tag: fe
   phase: 3

@@ -51,6 +51,7 @@ Having a _mental model_ for the way a framework works makes it much easier to th
 
 ## 🔖 References
 
+- [Diagram of Token Auth Flow]({{ site.team_notes_repo}}/blob/main/token-auth.md)
 - [Using State with local storage][react-local-storage]
 - [Fetching data in React][react-requests]
 - [Working with Forms in React][react-forms]

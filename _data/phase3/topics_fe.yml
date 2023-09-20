@@ -71,14 +71,14 @@
   project_name: collaborative_project
   code_demo: https://github.com/Momentum-Team-19/example-react-library
   published: false
-- title: URL Routing in React
+- title: Client-side Routing in React
   tag: fe
   phase: 3
-  date:
+  date: 2023-09-21
   page: phase3-fe/react-router.md
-  project_name:
+  project_name: collaborative_project
   code_demo: https://github.com/Momentum-Team-19/example-react-library
-  published: false
+  published: true
 - title: Routing with Auth in React
   tag: fe
   phase: 3

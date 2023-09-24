@@ -91,11 +91,12 @@
 - title: Search in React
   tag: fe
   phase: 3
-  date:
+  date: 2023-09-25
   page: phase3-fe/search.md
-  project_name:
+  project_name: collaborative_project
   code_demo: https://github.com/Momentum-Team-19/example-react-library
-  published: false
+  published: true
+  post_today: true
 - title: Uploading Files
   tag: fe
   phase: 3

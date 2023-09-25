@@ -54,7 +54,7 @@ Each interview will be about 10-15 minutes long and will focus on one of the top
 
 Your instructor will let you know at the end of the interview, or shortly after, if you have met the requirements to complete Phase 3.
 
-Interviews slots are available on Thursday morning during our regular meeting time. Please use **[this calendly link to sign up for a time](https://calendly.com/amy-at-momentum/end-of-phase-interview)** that works for you.
+Interviews slots are available on Thursday morning during our regular meeting time. Please use **[this calendly link to sign up for a time](https://calendly.com/momentumlearn/end-of-phase-interview)** that works for you.
 
 
 #### Interview Topics

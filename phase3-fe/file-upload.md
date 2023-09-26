@@ -5,7 +5,7 @@ topic: JavaScript
 category: phase3-fe
 parent: Phase 3 Advanced Front End
 nav_order: 12
-published: false
+published: true
 ---
 
 ## 🎯 Objectives
@@ -24,7 +24,7 @@ What remains to be done on your project? Some things to consider:
 
 ## 📂 Handling Uploaded Files
 
-The back-end is learning how to accept requests that included attached files (including image files). They will need to provide you with an endpoint that can accept attached files so that you can make a request to upload the file. But even before that endpoint is working, you can implement the form to allow users to upload a file.
+The back-end can accept requests that included attached files (including image files). The front-end needs an endpoint that can accept attached files so that they can make a request to upload the file. But even before that endpoint is working, the front-end can implement the form to allow users to upload a file.
 
 You'll need a way to [access the file that is being uploaded by the user](https://developer.mozilla.org/en-US/docs/Web/API/File_API/Using_files_from_web_applications#accessing_selected_files). That file is what is stored in the `file` variable in the examples below.
 
@@ -54,7 +54,7 @@ axios.patch(url, file, {
 
 ### Sending JSON + a file using FormData
 
-If you Google how to include a file attachment in an HTTP request, you'll see a lot of references to [using the FormData object](https://developer.mozilla.org/en-US/docs/Web/API/FormData/Using_FormData_Objects). This can be useful if you want to send JSON and a file attachment at the same time. 
+If you Google how to include a file attachment in an HTTP request, you'll see a lot of references to [using the FormData object](https://developer.mozilla.org/en-US/docs/Web/API/FormData/Using_FormData_Objects). This can be useful if you want to send JSON and a file attachment at the same time.
 
 ```js
 const handleSubmit = (event) => {
@@ -77,8 +77,7 @@ const handleSubmit = (event) => {
   }
 ```
 
-
-See the references below for more information about using a file input element and accessing a selected file. [The `useRef()` hook](https://reactjs.org/docs/hooks-reference.html#useref) will be helpful to get the files from the input element after a user has selected a file using the form.
+See the references below for more information about using a file input element and accessing a selected file. [The `useRef()` hook](https://react.dev/reference/react/useRef) will be helpful to get the files from the input element after a user has selected a file using the form.
 
 ## 🔖 Resources
 

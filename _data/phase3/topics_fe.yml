@@ -100,8 +100,8 @@
 - title: Uploading Files
   tag: fe
   phase: 3
-  date:
+  date: 2023-09-26
   page: phase3-fe/file-upload.md
-  project_name:
+  project_name: collaborative_project
   code_demo: https://github.com/Momentum-Team-19/example-react-library
-  published: false
+  published: true

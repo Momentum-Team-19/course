@@ -1,14 +1,14 @@
 - title: Agile Development 101
   phase: 4
-  date: 2023-10-03
+  date: 2023-10-02
   page: phase4/intro-agile.md
   published: true
   post_today: true
 - title: Defining MVP
   phase: 4
-  date: 2023-07-11
+  date: 2023-10-03
   page: phase4/defining-mvp.md
-  published: false
+  published: true
   post_today: true
 - title: Writing User Stories
   phase: 4

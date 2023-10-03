@@ -5,10 +5,10 @@ topic: Agile
 category: phase4
 parent: Phase 4
 nav_order: 2
-published: false
+published: true
 ---
 <!-- markdownlint-disable no-trailing-punctuation -->
-## 🎯 Learning Objectives & Agenda
+## 🎯 Objectives
 
 - Pitching and refining your product idea
 - Thinking about features and beginning to think about implementation

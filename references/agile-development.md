@@ -7,11 +7,12 @@ layout: resource_list
 
 {% include summary_toc.html %}
 
-## Team Charter
+## Team Dynamics & Creating a Team Charter
 
 - [Create a Team Agreement](https://momentumlearn.notion.site/Create-a-Working-Agreement-bb5c3f432a0a4bc792240543b67b8c9a)
 - [A good overview of what a team charter is and how to create one](https://asana.com/resources/team-charter-template)
 - Here are three [team charter](https://miro.com/templates/team-charter/) [template](https://miro.com/app/board/o9J_ktzRrXI=/) [examples](https://miro.com/app/board/o9J_kwl2ccA=/), all from Miro.
+- [The Stages of Team Development: Forming, Norming, Storming, Performing](https://hr.mit.edu/learning-topics/teams/articles/stages-development)
 
 ## Time Management ⌛
 

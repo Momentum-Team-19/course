@@ -12,9 +12,10 @@
   post_today: true
 - title: Writing User Stories
   phase: 4
-  date: 2023-07-12
+  date: 2023-10-04
   page: phase4/user-stories.md
-  published: false
+  published: true
+  post_today: true
 - title: Trello and Tasks
   phase: 4
   date: 2023-07-13

@@ -24,6 +24,6 @@
   post_today: true
 - title: Ready...Set...Code!
   phase: 4
-  date: 2023-07-14
+  date: 2023-10-06
   page: phase4/project-checklists.md
-  published: false
+  published: true

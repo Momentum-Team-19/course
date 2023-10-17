@@ -40,6 +40,12 @@ Writing code requires a special editor -- you can't use Google Docs or MS Word. 
 - [Time Blocking](https://todoist.com/productivity-methods/time-blocking)
 - [Common Time Management Problems & Solutions](https://dev.to/actitime/20-most-common-time-management-problems-solutions-3abb)
 
+## Repo READMEs
+
+- [README generator](https://readme.so/)
+- [README 101](https://www.makeareadme.com/)
+- [awesome-readme](https://github.com/matiassingers/awesome-readme) _Examples, tools, and more_
+
 ## Markdown
 
 Markdown is an easy-to-learn way to add formatting to plain text and code snippets. It is commonly used in READMEs on GitHub and can even be used to generate HTML. It comes in handy a lot for developers, and you should know how to use it.

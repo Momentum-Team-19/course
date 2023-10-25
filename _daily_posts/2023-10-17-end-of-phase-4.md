@@ -44,7 +44,7 @@ You don't need to work on these things until next week. More detail will be shar
    1. A short video demo of the work you contributed to the project
    2. A headshot
    3. A short bio
-3. Peer feedback, one form for each teammate (form link TDB).
+3. Peer feedback, one form for each teammate ([form link](https://forms.gle/xCsbLEWzAPbgUBAd6)).
 
 ## 🚀 Product Launch
 

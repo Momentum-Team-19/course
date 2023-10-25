@@ -35,15 +35,14 @@ These are the things you need to submit to Momentum staff to complete Phase 4.
 
 You don't need to work on these things until next week. More detail will be shared with you then.
 
-1. Information about the product you built (form link TBD)
+1. Information about the product you built ([form link](https://forms.gle/k8rkimEGyn7GMRJj6))
    1. The production URL
    2. A written description of your product
    3. A URL for your Github repo (with a README)
    4. Optionally: planning materials (Miro, Figma, wireframes, team charter, etc)
-2. Information about yourself (form link TBD)
-   1. A short video demo of the work you contributed to the project
-   2. A headshot
-   3. A short bio
+2. Information about yourself ([form link](https://forms.gle/j3xecXnHasUwcp6p9))
+   1. A headshot (here are some examples)
+   2. A short bio
 3. Peer feedback, one form for each teammate ([form link](https://forms.gle/xCsbLEWzAPbgUBAd6)).
 
 ## 🚀 Product Launch

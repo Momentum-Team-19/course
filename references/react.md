@@ -98,6 +98,12 @@ layout: resource_list
 - [Referencing values with Refs](https://react.dev/learn/referencing-values-with-refs)
 - [Manipulating the DOM with Refs](https://react.dev/learn/manipulating-the-dom-with-refs)
 
+## useMemo
+
+- [Why React Re-Renders and When to Worry About It](https://punits.dev/jargon-free-intros/why-react-rerenders-and-when-to-worry-about-it/)
+- [useMemo hook](https://react.dev/reference/react/useMemo)
+- [Before you memo](https://overreacted.io/before-you-memo/)
+
 ## Custom Hooks
 
 - [Custom hook recipes](https://usehooks.com/)

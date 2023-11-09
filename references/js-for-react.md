@@ -18,6 +18,8 @@ layout: resource_list
 - [Notes: JS for React]({{ site.team_notes_repo }}/blob/main/js-for-react.md)
 - 📺 [ES6 tutorial for beginners](https://www.youtube.com/watch?v=WZQc7RUAg18)
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) Working together on a team is easier when everyone has the same standards for their code. Here is one popular style guide.
+- 🎧 [JS Fundamentals](https://syntax.fm/show/162/the-fundamentals-js)
+- 🎧 [20 JS Array and Object Methods to Make You a Better Developer](https://syntax.fm/show/043/20-javascript-array-and-object-methods-to-make-you-a-better-developer)
 
 ### Working with JSX
 
